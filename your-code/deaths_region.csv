@@ -1,0 +1,1471 @@
+Region,Sex,Age Group,Cause,Value,Low,High
+Africa,Both,80+,Stroke,12098.74939,6238.35297,18341.27341
+Africa,Both,All,Stroke,61986.77548,32424.38942,93620.35582
+Africa,Both,25-29,Chronic obstructive pulmonary disease,82.85815,30.77804,156.81385
+Africa,Both,30-34,Chronic obstructive pulmonary disease,125.6255,46.12674,234.37985
+Africa,Both,35-39,Chronic obstructive pulmonary disease,148.12048,53.38179,284.99058
+Africa,Both,40-44,Chronic obstructive pulmonary disease,233.67938,84.47049,450.01783
+Africa,Both,45-49,Chronic obstructive pulmonary disease,414.6345,152.22144,799.28152
+Africa,Both,50-54,Chronic obstructive pulmonary disease,785.71121,294.4596,1509.0583
+Africa,Both,55-59,Chronic obstructive pulmonary disease,1203.84886,440.29667,2323.61874
+Africa,Both,60-64,Chronic obstructive pulmonary disease,1915.35362,705.622,3735.33883
+Africa,Both,65-69,Chronic obstructive pulmonary disease,2698.24574,1008.3841,5224.22016
+Africa,Both,70-74,Chronic obstructive pulmonary disease,3364.96573,1262.28951,6527.61451
+Africa,Both,75-79,Chronic obstructive pulmonary disease,2916.97413,1093.43623,5687.58848
+Africa,Both,25-29,Ischaemic heart disease,352.35354,221.28872,459.29
+Africa,Both,30-34,Ischaemic heart disease,793.20689,502.57218,1027.52261
+Africa,Both,35-39,Ischaemic heart disease,1369.06354,866.64634,1770.23657
+Africa,Both,40-44,Ischaemic heart disease,2189.71078,1385.40691,2830.62216
+Africa,Both,45-49,Ischaemic heart disease,3737.04685,2365.94195,4847.84658
+Africa,Both,50-54,Ischaemic heart disease,5620.41748,3572.75413,7312.22447
+Africa,Both,55-59,Ischaemic heart disease,7707.54728,4917.0785,10038.82985
+Africa,Both,60-64,Ischaemic heart disease,10469.4491,6723.58001,13605.18252
+Africa,Both,65-69,Ischaemic heart disease,13304.3247,8605.24645,17248.88252
+Africa,Both,70-74,Ischaemic heart disease,15195.23862,9852.6951,19667.94604
+Africa,Both,75-79,Ischaemic heart disease,13745.98838,8888.63788,17817.5703
+Africa,Both,80+,Ischaemic heart disease,21905.3954,14106.30118,28537.97479
+Africa,Both,All,Ischaemic heart disease,96389.74256,61958.56558,124642.8743
+Africa,Both,25-29,Stroke,392.69765,204.012,589.03717
+Africa,Both,30-34,Stroke,599.15911,310.26748,897.179
+Africa,Both,35-39,Stroke,927.1699,481.79146,1393.92253
+Africa,Both,40-44,Stroke,1687.37688,879.12179,2543.10187
+Africa,Both,45-49,Stroke,2428.70778,1269.10536,3659.82152
+Africa,Both,50-54,Stroke,3929.92094,2053.50042,5909.04991
+Africa,Both,55-59,Stroke,5126.71604,2687.09915,7742.45988
+Africa,Both,60-64,Stroke,7253.95998,3799.08894,10955.21533
+Africa,Both,65-69,Stroke,8581.38058,4506.7733,12952.45982
+Africa,Both,70-74,Stroke,9637.40284,5069.51254,14545.93883
+Africa,Both,75-79,Stroke,9323.5344,4894.60346,14056.205
+Africa,Both,80+,Chronic obstructive pulmonary disease,3692.00063,1351.0971,7203.86542
+Africa,Both,50-54,"Trachea, bronchus, lung cancers",260.4414,150.75605,403.61405
+Africa,Both,55-59,"Trachea, bronchus, lung cancers",326.57672,187.42102,505.6908
+Africa,Both,60-64,"Trachea, bronchus, lung cancers",371.33739,210.74654,576.08405
+Africa,Both,65-69,"Trachea, bronchus, lung cancers",352.48621,197.24113,545.91401
+Africa,Both,70-74,"Trachea, bronchus, lung cancers",290.52839,161.83278,455.06828
+Africa,Both,75-79,"Trachea, bronchus, lung cancers",222.25817,123.17793,349.30378
+Africa,Both,All,Chronic obstructive pulmonary disease,17582.01792,6555.64008,34212.05728
+Africa,Both,0-4,Lower respiratory infections,81670.17958,53655.77069,109965.9102
+Africa,Both,5-9,Lower respiratory infections,5758.19762,3731.69642,7862.42173
+Africa,Both,10-14,Lower respiratory infections,2896.58133,1805.12234,4013.52239
+Africa,Both,15-19,Lower respiratory infections,1081.97574,664.16266,1537.08107
+Africa,Both,20-24,Lower respiratory infections,1185.07395,730.5822,1675.57639
+Africa,Both,25-29,Lower respiratory infections,1538.85443,926.52007,2183.60847
+Africa,Both,30-34,Lower respiratory infections,1849.71408,1114.50995,2637.77329
+Africa,Both,35-39,Lower respiratory infections,2188.18568,1327.78636,3127.19627
+Africa,Both,40-44,Lower respiratory infections,2533.05561,1533.82814,3604.51576
+Africa,Both,45-49,Lower respiratory infections,3168.93962,1940.74822,4492.87283
+Africa,Both,50-54,Lower respiratory infections,4125.09239,2540.58538,5848.65254
+Africa,Both,55-59,Lower respiratory infections,5346.26673,3303.30368,7539.70967
+Africa,Both,60-64,Lower respiratory infections,6876.16132,4253.79331,9695.20186
+Africa,Both,65-69,Lower respiratory infections,8070.25095,5071.47522,11299.54774
+Africa,Both,70-74,Lower respiratory infections,9608.93784,6097.90705,13413.97191
+Africa,Both,75-79,Lower respiratory infections,9044.31977,5658.94322,12755.34773
+Africa,Both,80+,Lower respiratory infections,12887.42734,7783.90691,18481.84098
+Africa,Both,All,Lower respiratory infections,159829.214,102836.7894,221025.8279
+Africa,Both,25-29,"Trachea, bronchus, lung cancers",9.72467,5.35609,15.28512
+Africa,Both,30-34,"Trachea, bronchus, lung cancers",21.13282,11.93764,32.79826
+Africa,Both,35-39,"Trachea, bronchus, lung cancers",44.57337,25.15538,68.82956
+Africa,Both,40-44,"Trachea, bronchus, lung cancers",98.39795,56.32868,152.27836
+Africa,Both,45-49,"Trachea, bronchus, lung cancers",182.95302,106.17227,281.99289
+Africa,Female,65-69,Stroke,4176.0943,2205.24072,6281.82016
+Africa,Female,70-74,Stroke,5214.79386,2739.97866,7855.77098
+Africa,Female,75-79,Stroke,5490.49103,2887.42214,8276.354
+Africa,Female,80+,Stroke,7322.56526,3779.76347,11120.72487
+Africa,Female,All,Stroke,32287.48855,16935.5375,48731.36889
+Africa,Female,25-29,Chronic obstructive pulmonary disease,32.03443,11.67691,59.79083
+Africa,Female,30-34,Chronic obstructive pulmonary disease,48.60891,17.93498,90.85131
+Africa,Both,80+,"Trachea, bronchus, lung cancers",213.40553,117.47805,337.93499
+Africa,Both,All,"Trachea, bronchus, lung cancers",2393.81566,1357.39785,3709.86009
+Africa,Female,25-29,Ischaemic heart disease,106.03509,65.87686,137.76921
+Africa,Female,30-34,Ischaemic heart disease,265.79272,168.7294,343.46643
+Africa,Female,35-39,Ischaemic heart disease,410.55376,259.96722,531.39737
+Africa,Female,40-44,Ischaemic heart disease,689.19297,437.32228,891.57364
+Africa,Female,45-49,Ischaemic heart disease,1259.19086,812.88029,1628.22142
+Africa,Female,50-54,Ischaemic heart disease,2058.47359,1320.85278,2665.99614
+Africa,Female,55-59,Ischaemic heart disease,2860.97574,1838.63865,3710.72857
+Africa,Female,60-64,Ischaemic heart disease,4330.3825,2800.28802,5598.72109
+Africa,Female,65-69,Ischaemic heart disease,6110.28062,3968.47059,7888.06746
+Africa,Female,70-74,Ischaemic heart disease,7699.32964,5000.92755,9939.05915
+Africa,Female,75-79,Ischaemic heart disease,7698.55269,4973.30377,9989.59136
+Africa,Female,80+,Ischaemic heart disease,12596.05328,8074.67835,16403.67004
+Africa,Female,All,Ischaemic heart disease,46084.81345,29681.87395,59583.6053
+Africa,Female,25-29,Stroke,145.45308,75.8068,218.2474
+Africa,Female,30-34,Stroke,268.66639,139.69207,402.73853
+Africa,Female,35-39,Stroke,437.64466,226.76173,659.46449
+Africa,Female,40-44,Stroke,710.7388,369.49709,1064.26895
+Africa,Female,45-49,Stroke,1079.38133,562.36044,1617.48779
+Africa,Female,50-54,Stroke,1823.0249,950.55043,2741.49398
+Africa,Female,55-59,Stroke,2396.2132,1256.72137,3597.17207
+Africa,Female,60-64,Stroke,3222.42174,1699.52264,4840.12086
+Africa,Female,40-44,Chronic obstructive pulmonary disease,62.39309,21.65096,124.82253
+Africa,Female,70-74,Lower respiratory infections,4426.53978,2797.9241,6160.9147
+Africa,Female,75-79,Lower respiratory infections,4395.06476,2722.91956,6174.37965
+Africa,Female,80+,Lower respiratory infections,6827.23862,4120.64867,9792.67314
+Africa,Female,All,Lower respiratory infections,70555.47992,45636.29687,97652.03324
+Africa,Female,25-29,"Trachea, bronchus, lung cancers",4.10698,2.27503,6.39928
+Africa,Female,30-34,"Trachea, bronchus, lung cancers",8.29483,4.58657,12.892
+Africa,Female,45-49,Chronic obstructive pulmonary disease,143.85517,52.49283,272.72248
+Africa,Female,50-54,Chronic obstructive pulmonary disease,284.16566,106.71642,546.11506
+Africa,Female,55-59,Chronic obstructive pulmonary disease,449.51982,165.09056,870.94079
+Africa,Female,60-64,Chronic obstructive pulmonary disease,718.91242,265.14307,1392.10521
+Africa,Female,65-69,Chronic obstructive pulmonary disease,1099.73753,412.94467,2115.5198
+Africa,Female,70-74,Chronic obstructive pulmonary disease,1280.32783,476.47951,2487.89613
+Africa,Female,75-79,Chronic obstructive pulmonary disease,1246.56795,458.9963,2441.87371
+Africa,Female,80+,Chronic obstructive pulmonary disease,1592.94466,567.92864,3184.50153
+Africa,Female,All,Chronic obstructive pulmonary disease,7021.51769,2572.16741,13698.7671
+Africa,Female,0-4,Lower respiratory infections,35145.33326,23156.11319,47257.26936
+Africa,Female,5-9,Lower respiratory infections,3018.62059,1944.12554,4134.81312
+Africa,Female,10-14,Lower respiratory infections,1361.55687,851.9871,1888.75462
+Africa,Female,15-19,Lower respiratory infections,497.86704,304.37569,708.50534
+Africa,Female,20-24,Lower respiratory infections,518.74573,321.14942,729.57669
+Africa,Female,25-29,Lower respiratory infections,695.96035,417.77427,991.92298
+Africa,Female,30-34,Lower respiratory infections,826.69998,493.63013,1185.31573
+Africa,Female,35-39,Lower respiratory infections,911.76555,544.64524,1314.3401
+Africa,Female,40-44,Lower respiratory infections,991.80967,599.62157,1414.93198
+Africa,Female,45-49,Lower respiratory infections,1054.09665,652.20902,1491.10403
+Africa,Female,50-54,Lower respiratory infections,1643.81879,1021.89453,2313.54413
+Africa,Female,55-59,Lower respiratory infections,2053.57609,1286.5365,2881.13724
+Africa,Female,60-64,Lower respiratory infections,2744.68659,1701.13268,3870.85112
+Africa,Female,65-69,Lower respiratory infections,3442.09962,2155.40096,4821.72274
+Africa,Female,35-39,Chronic obstructive pulmonary disease,62.45023,22.26165,121.04834
+Africa,Female,35-39,"Trachea, bronchus, lung cancers",20.68588,11.45627,32.038
+Africa,Male,25-29,Stroke,247.24458,128.2052,370.94732
+Africa,Male,30-34,Stroke,330.49272,170.76542,497.68788
+Africa,Male,35-39,Stroke,489.52525,253.61337,738.56941
+Africa,Male,40-44,Stroke,976.63807,509.59969,1472.49029
+Africa,Male,45-49,Stroke,1349.32645,702.8256,2031.99528
+Africa,Male,50-54,Stroke,2106.89604,1098.88288,3176.05035
+Africa,Female,40-44,"Trachea, bronchus, lung cancers",37.11073,20.63604,57.88612
+Africa,Female,45-49,"Trachea, bronchus, lung cancers",63.65982,35.72011,98.56328
+Africa,Female,50-54,"Trachea, bronchus, lung cancers",84.17206,47.77854,131.38678
+Africa,Female,55-59,"Trachea, bronchus, lung cancers",101.64672,57.46622,159.17988
+Africa,Female,60-64,"Trachea, bronchus, lung cancers",121.38375,67.5258,189.48694
+Africa,Female,65-69,"Trachea, bronchus, lung cancers",108.28963,59.91961,171.44425
+Africa,Female,70-74,"Trachea, bronchus, lung cancers",94.9658,52.31694,152.03495
+Africa,Female,75-79,"Trachea, bronchus, lung cancers",75.19232,41.41547,119.6055
+Africa,Female,80+,"Trachea, bronchus, lung cancers",79.0537,43.50375,125.48462
+Africa,Female,All,"Trachea, bronchus, lung cancers",798.56223,443.22752,1255.47891
+Africa,Male,25-29,Ischaemic heart disease,246.31845,155.84667,320.47482
+Africa,Male,30-34,Ischaemic heart disease,527.41417,334.45214,684.07504
+Africa,Male,35-39,Ischaemic heart disease,958.50979,607.89277,1239.99361
+Africa,Male,40-44,Ischaemic heart disease,1500.51781,950.45453,1940.25372
+Africa,Male,45-49,Ischaemic heart disease,2477.85599,1559.99746,3223.14739
+Africa,Male,50-54,Ischaemic heart disease,3561.94389,2252.22968,4642.68032
+Africa,Male,55-59,Ischaemic heart disease,4846.57154,3084.60723,6328.05082
+Africa,Male,60-64,Ischaemic heart disease,6139.0666,3923.29199,7996.53471
+Africa,Male,65-69,Ischaemic heart disease,7194.04408,4636.82536,9360.25533
+Africa,Male,70-74,Ischaemic heart disease,7495.90899,4851.76755,9728.55291
+Africa,Male,75-79,Ischaemic heart disease,6047.43569,3915.38666,7816.18748
+Africa,Male,80+,Ischaemic heart disease,9309.34213,6030.38199,12124.7158
+Africa,Male,All,Ischaemic heart disease,50304.92912,32276.69163,65066.51953
+Africa,Male,55-59,Stroke,2730.50284,1434.06037,4123.85316
+Africa,Male,25-29,Lower respiratory infections,842.89408,517.19093,1193.32093
+Africa,Male,30-34,Lower respiratory infections,1023.01409,621.48216,1448.48139
+Africa,Male,35-39,Lower respiratory infections,1276.42013,781.40745,1808.1418
+Africa,Male,40-44,Lower respiratory infections,1541.24595,934.33658,2190.2844
+Africa,Male,45-49,Lower respiratory infections,2114.84297,1292.25269,3004.88967
+Africa,Male,50-54,Lower respiratory infections,2481.27359,1509.80413,3535.04779
+Africa,Male,60-64,Stroke,4031.53823,2107.59223,6071.59913
+Africa,Male,65-69,Stroke,4405.28628,2302.60104,6640.51908
+Africa,Male,70-74,Stroke,4422.60899,2329.53388,6670.22495
+Africa,Male,75-79,Stroke,3833.04336,2006.90186,5794.46865
+Africa,Male,80+,Stroke,4776.18413,2458.8388,7221.84858
+Africa,Male,All,Stroke,29699.28693,15497.12834,44791.09713
+Africa,Male,25-29,Chronic obstructive pulmonary disease,50.82372,19.26495,95.39413
+Africa,Male,30-34,Chronic obstructive pulmonary disease,77.0166,28.19451,144.84126
+Africa,Male,35-39,Chronic obstructive pulmonary disease,85.67025,30.96192,163.94224
+Africa,Male,40-44,Chronic obstructive pulmonary disease,171.28629,63.34279,325.93129
+Africa,Male,45-49,Chronic obstructive pulmonary disease,270.77933,98.7026,531.87397
+Africa,Male,50-54,Chronic obstructive pulmonary disease,501.54555,186.37718,954.52957
+Africa,Male,55-59,Chronic obstructive pulmonary disease,754.32904,275.20611,1464.29003
+Africa,Male,60-64,Chronic obstructive pulmonary disease,1196.4412,440.65423,2326.96466
+Africa,Male,65-69,Chronic obstructive pulmonary disease,1598.5082,594.17539,3100.93645
+Africa,Male,70-74,Chronic obstructive pulmonary disease,2084.6379,783.98252,4026.37419
+Africa,Male,75-79,Chronic obstructive pulmonary disease,1670.40618,622.32308,3228.49731
+Africa,Male,80+,Chronic obstructive pulmonary disease,2099.05597,770.94871,4084.00552
+Africa,Male,All,Chronic obstructive pulmonary disease,10560.50023,3904.90803,20318.79239
+Africa,Male,0-4,Lower respiratory infections,46524.84632,30500.66099,62690.76158
+Africa,Male,5-9,Lower respiratory infections,2739.57704,1778.59352,3727.60861
+Africa,Male,10-14,Lower respiratory infections,1535.02447,957.4707,2124.8169
+Africa,Male,15-19,Lower respiratory infections,584.1087,358.2412,829.69009
+Africa,Male,20-24,Lower respiratory infections,666.32822,408.72,946.23268
+Africa,Male,55-59,Lower respiratory infections,3292.69064,2030.23971,4658.57243
+Americas,Both,45-49,Ischaemic heart disease,3298.03187,1924.85092,4421.87073
+Americas,Both,50-54,Ischaemic heart disease,5801.02684,3361.83522,7831.51921
+Americas,Both,55-59,Ischaemic heart disease,9256.3748,5307.56759,12552.69697
+Americas,Both,60-64,Ischaemic heart disease,12756.56311,7322.29036,17314.77464
+Americas,Both,65-69,Ischaemic heart disease,15752.35175,9067.85221,21338.94082
+Americas,Both,70-74,Ischaemic heart disease,18600.83956,10672.06398,25216.6134
+Africa,Male,60-64,Lower respiratory infections,4131.47473,2567.71011,5842.64463
+Africa,Male,65-69,Lower respiratory infections,4628.15134,2903.51873,6481.59875
+Africa,Male,70-74,Lower respiratory infections,5182.39806,3273.19059,7251.86608
+Africa,Male,75-79,Lower respiratory infections,4649.25502,2893.33466,6551.43618
+Americas,Both,30-34,Stroke,223.51361,102.09301,373.15272
+Americas,Both,35-39,Stroke,376.14412,170.66467,630.88864
+Americas,Both,40-44,Stroke,573.95501,260.43744,962.26172
+Americas,Both,45-49,Stroke,874.31115,392.84912,1472.61707
+Americas,Both,50-54,Stroke,1354.1005,598.67941,2297.28826
+Americas,Both,55-59,Stroke,1937.00228,856.36611,3305.67757
+Americas,Both,60-64,Stroke,2718.49089,1202.57069,4646.77413
+Americas,Both,65-69,Stroke,3566.50611,1577.57369,6073.20224
+Americas,Both,70-74,Stroke,4585.36742,1991.85053,7829.4208
+Americas,Both,75-79,Stroke,5498.3388,2396.37063,9335.96462
+Americas,Both,80+,Stroke,19548.64709,8049.52695,34164.79124
+Americas,Both,All,Stroke,41404.36019,17705.87379,70989.75054
+Americas,Both,25-29,Chronic obstructive pulmonary disease,19.5202,4.9894,44.65741
+Americas,Both,30-34,Chronic obstructive pulmonary disease,27.26191,6.6898,63.19803
+Americas,Both,35-39,Chronic obstructive pulmonary disease,47.82192,11.56615,111.62326
+Americas,Both,40-44,Chronic obstructive pulmonary disease,81.08929,19.02004,191.98048
+Americas,Both,45-49,Chronic obstructive pulmonary disease,167.66608,37.94439,403.45137
+Americas,Both,50-54,Chronic obstructive pulmonary disease,424.33696,92.31431,1042.39018
+Americas,Both,55-59,Chronic obstructive pulmonary disease,965.3123,200.40674,2405.71179
+Americas,Both,60-64,Chronic obstructive pulmonary disease,1696.50105,358.01734,4211.77461
+Americas,Both,65-69,Chronic obstructive pulmonary disease,2503.10168,536.38899,6184.70141
+Americas,Both,70-74,Chronic obstructive pulmonary disease,3711.86275,795.85931,9183.45125
+Americas,Both,75-79,Chronic obstructive pulmonary disease,4326.68885,959.15745,10593.18404
+Americas,Both,80+,Chronic obstructive pulmonary disease,14498.67358,3362.18044,34985.64406
+Americas,Both,All,Chronic obstructive pulmonary disease,28469.83656,6385.48203,69492.36689
+Americas,Both,0-4,Lower respiratory infections,2144.87521,1024.07736,3416.45052
+Americas,Both,5-9,Lower respiratory infections,137.19412,68.92116,214.68866
+Africa,Male,80+,Lower respiratory infections,6060.18871,3693.98229,8719.93419
+Africa,Male,All,Lower respiratory infections,89273.73406,57469.84282,123316.6144
+Africa,Male,25-29,"Trachea, bronchus, lung cancers",5.61769,3.08977,8.91138
+Africa,Male,30-34,"Trachea, bronchus, lung cancers",12.83799,7.37574,19.80147
+Africa,Male,35-39,"Trachea, bronchus, lung cancers",23.88749,13.73066,37.01983
+Africa,Male,40-44,"Trachea, bronchus, lung cancers",61.28722,35.70367,93.72705
+Africa,Male,45-49,"Trachea, bronchus, lung cancers",119.2932,69.1209,182.65449
+Africa,Male,50-54,"Trachea, bronchus, lung cancers",176.26934,101.34153,271.84154
+Africa,Male,55-59,"Trachea, bronchus, lung cancers",224.93,128.42252,346.7995
+Africa,Male,60-64,"Trachea, bronchus, lung cancers",249.95365,141.67067,385.43931
+Africa,Male,65-69,"Trachea, bronchus, lung cancers",244.19658,137.51736,379.42212
+Africa,Male,70-74,"Trachea, bronchus, lung cancers",195.56259,108.90205,306.87804
+Africa,Male,75-79,"Trachea, bronchus, lung cancers",147.06585,80.89249,231.47121
+Africa,Male,80+,"Trachea, bronchus, lung cancers",134.35183,72.47495,212.73914
+Africa,Male,All,"Trachea, bronchus, lung cancers",1595.25343,909.67866,2462.77171
+Americas,Both,25-29,Ischaemic heart disease,370.67157,221.10765,488.29295
+Americas,Both,30-34,Ischaemic heart disease,659.6334,389.6831,877.14418
+Americas,Both,35-39,Ischaemic heart disease,1183.61477,695.76392,1579.20326
+Americas,Both,40-44,Ischaemic heart disease,1962.89052,1154.34608,2619.72944
+Americas,Both,75-79,Ischaemic heart disease,19930.64452,11540.52086,26939.97924
+Americas,Both,80+,Ischaemic heart disease,78931.83873,45275.33799,107211.0349
+Americas,Both,All,Ischaemic heart disease,168504.4814,96894.28136,228427.6727
+Americas,Both,25-29,Stroke,147.98321,68.7341,244.11155
+Americas,Both,50-54,"Trachea, bronchus, lung cancers",391.36751,189.3693,672.88556
+Americas,Both,70-74,"Trachea, bronchus, lung cancers",1590.57705,749.80151,2808.84646
+Americas,Both,75-79,"Trachea, bronchus, lung cancers",1392.66877,658.47203,2463.53302
+Americas,Both,80+,"Trachea, bronchus, lung cancers",2165.18318,1017.72867,3847.43462
+Americas,Both,All,"Trachea, bronchus, lung cancers",9230.4218,4385.75608,16192.76718
+Americas,Female,25-29,Ischaemic heart disease,101.49281,60.70568,134.29404
+Americas,Both,55-59,"Trachea, bronchus, lung cancers",811.91577,388.27847,1408.3956
+Americas,Both,60-64,"Trachea, bronchus, lung cancers",1147.62062,548.86974,1998.10487
+Americas,Both,65-69,"Trachea, bronchus, lung cancers",1411.54512,670.63292,2468.5536
+Americas,Both,10-14,Lower respiratory infections,110.7542,55.49497,173.88767
+Americas,Both,15-19,Lower respiratory infections,166.61624,80.66515,264.50323
+Americas,Both,20-24,Lower respiratory infections,211.32584,100.84672,341.30008
+Americas,Both,25-29,Lower respiratory infections,265.42094,128.13296,427.05165
+Americas,Both,30-34,Lower respiratory infections,299.14015,143.35457,487.52975
+Americas,Both,35-39,Lower respiratory infections,426.88215,202.79825,699.09634
+Americas,Both,40-44,Lower respiratory infections,528.8026,250.55801,863.07704
+Americas,Female,80+,Ischaemic heart disease,44116.12446,25308.3449,59910.01056
+Americas,Female,All,Ischaemic heart disease,76043.37098,43863.81593,103008.9103
+Americas,Female,25-29,Stroke,67.88337,31.39528,112.25783
+Americas,Female,30-34,Stroke,103.38275,47.26347,172.6009
+Americas,Female,35-39,Stroke,178.09211,79.76907,299.21986
+Americas,Female,40-44,Stroke,274.0651,124.40097,459.08612
+Americas,Female,45-49,Stroke,417.64419,188.42395,701.48645
+Americas,Female,50-54,Stroke,619.89297,274.4004,1050.13612
+Americas,Female,55-59,Stroke,859.05223,379.43382,1462.47518
+Americas,Female,60-64,Stroke,1175.93395,519.32231,2003.1428
+Americas,Female,65-69,Stroke,1582.51786,699.57112,2687.72545
+Americas,Female,70-74,Stroke,2116.29342,918.89767,3608.09128
+Americas,Female,75-79,Stroke,2772.37815,1202.06987,4718.4401
+Americas,Female,80+,Stroke,11940.41897,4861.10598,21028.47043
+Americas,Female,All,Stroke,22107.55506,9314.16648,38154.48594
+Americas,Female,25-29,Chronic obstructive pulmonary disease,7.79852,1.97474,17.78234
+Americas,Female,30-34,Chronic obstructive pulmonary disease,11.1003,2.70366,25.89448
+Americas,Female,35-39,Chronic obstructive pulmonary disease,18.30917,4.40579,42.92846
+Americas,Female,40-44,Chronic obstructive pulmonary disease,37.71747,8.7999,89.81391
+Americas,Female,45-49,Chronic obstructive pulmonary disease,79.69225,17.90386,192.72193
+Americas,Female,50-54,Chronic obstructive pulmonary disease,210.32503,45.0321,520.54209
+Americas,Both,45-49,Lower respiratory infections,694.14891,320.05647,1151.51482
+Americas,Both,50-54,Lower respiratory infections,953.90808,436.05838,1598.45097
+Americas,Both,55-59,Lower respiratory infections,1351.74068,599.25133,2295.91682
+Americas,Both,60-64,Lower respiratory infections,1832.29113,809.20919,3130.45053
+Americas,Both,65-69,Lower respiratory infections,2523.71897,1114.15648,4289.10219
+Americas,Both,70-74,Lower respiratory infections,3335.94037,1460.66018,5695.35294
+Americas,Both,75-79,Lower respiratory infections,4340.18998,1952.12148,7312.50931
+Americas,Both,80+,Lower respiratory infections,20338.7995,8856.37086,34698.72477
+Americas,Both,All,Lower respiratory infections,39661.74907,17680.90289,67143.37529
+Americas,Both,25-29,"Trachea, bronchus, lung cancers",11.51906,6.07087,18.82807
+Americas,Both,30-34,"Trachea, bronchus, lung cancers",20.76229,10.47876,34.6951
+Americas,Both,35-39,"Trachea, bronchus, lung cancers",38.85987,19.43116,65.39486
+Americas,Both,40-44,"Trachea, bronchus, lung cancers",81.16501,40.19658,137.32009
+Americas,Both,45-49,"Trachea, bronchus, lung cancers",167.23756,81.76853,286.23434
+Americas,Female,30-34,Ischaemic heart disease,179.60981,106.66719,238.98156
+Americas,Female,35-39,Ischaemic heart disease,332.61861,194.89195,443.74963
+Americas,Female,40-44,Ischaemic heart disease,585.70592,343.1236,781.13044
+Americas,Female,45-49,Ischaemic heart disease,980.06229,572.16821,1311.17186
+Americas,Female,50-54,Ischaemic heart disease,1722.01544,999.45481,2318.84438
+Americas,Female,55-59,Ischaemic heart disease,2807.98266,1622.36374,3800.54083
+Americas,Female,60-64,Ischaemic heart disease,4111.77355,2380.1545,5557.46755
+Americas,Female,65-69,Ischaemic heart disease,5487.36556,3175.96999,7412.02844
+Americas,Female,70-74,Ischaemic heart disease,7021.01683,4055.03413,9486.6136
+Americas,Female,75-79,Ischaemic heart disease,8597.60304,5002.11026,11596.06899
+Americas,Female,40-44,Lower respiratory infections,187.90954,89.23145,309.15681
+Americas,Female,25-29,"Trachea, bronchus, lung cancers",4.51286,2.37926,7.38787
+Americas,Female,30-34,"Trachea, bronchus, lung cancers",8.84554,4.45525,14.89345
+Americas,Female,35-39,"Trachea, bronchus, lung cancers",19.28575,9.6689,32.45291
+Americas,Female,40-44,"Trachea, bronchus, lung cancers",39.82431,19.76032,67.4219
+Americas,Female,45-49,"Trachea, bronchus, lung cancers",83.64491,40.90182,143.02612
+Americas,Female,50-54,"Trachea, bronchus, lung cancers",184.91357,89.23574,319.22724
+Americas,Female,55-59,"Trachea, bronchus, lung cancers",361.22798,172.27006,630.42445
+Americas,Female,45-49,Lower respiratory infections,260.18191,119.83915,435.3687
+Americas,Female,50-54,Lower respiratory infections,367.90264,167.5058,619.46301
+Americas,Female,55-59,Lower respiratory infections,545.09477,242.15397,927.01056
+Americas,Female,60-64,Lower respiratory infections,755.16233,334.90438,1290.54704
+Americas,Female,65-69,Lower respiratory infections,1067.37785,476.26974,1809.09115
+Americas,Female,70-74,Lower respiratory infections,1479.57916,652.26414,2520.23732
+Americas,Female,75-79,Lower respiratory infections,2078.16292,940.35727,3498.58885
+Americas,Female,80+,Lower respiratory infections,11685.97119,5090.29028,19969.12809
+Americas,Female,All,Lower respiratory infections,19981.26649,8881.36577,33890.01743
+Americas,Female,55-59,Chronic obstructive pulmonary disease,471.2109,96.8986,1180.66581
+Americas,Female,60-64,Chronic obstructive pulmonary disease,769.28771,161.31619,1915.66817
+Americas,Female,65-69,Chronic obstructive pulmonary disease,1100.84642,232.73207,2733.61219
+Americas,Female,70-74,Chronic obstructive pulmonary disease,1669.46364,354.62997,4146.65363
+Americas,Female,75-79,Chronic obstructive pulmonary disease,2027.81959,444.75133,4990.4081
+Americas,Female,80+,Chronic obstructive pulmonary disease,7679.89853,1774.4334,18583.64657
+Americas,Male,65-69,Ischaemic heart disease,10264.98619,5883.21239,13926.91238
+Americas,Male,70-74,Ischaemic heart disease,11579.82273,6619.34835,15729.9998
+Americas,Male,75-79,Ischaemic heart disease,11333.04148,6542.12327,15343.91024
+Americas,Male,80+,Ischaemic heart disease,34815.71427,19966.99309,47300.84661
+Americas,Male,All,Ischaemic heart disease,92461.11045,53100.08386,125418.7624
+Americas,Male,25-29,Stroke,80.09984,37.66658,131.87998
+Americas,Male,30-34,Stroke,120.13086,54.71454,200.54898
+Americas,Male,35-39,Stroke,198.05201,89.89019,332.20953
+Americas,Male,40-44,Stroke,299.8899,135.52341,502.88142
+Americas,Male,45-49,Stroke,456.66695,204.42517,769.8355
+Americas,Male,50-54,Stroke,734.20753,326.00711,1244.93626
+Americas,Male,55-59,Stroke,1077.95005,474.57563,1843.20239
+Americas,Male,60-64,Stroke,1542.55694,678.80309,2643.63133
+Americas,Male,65-69,Stroke,1983.98825,878.00257,3385.4768
+Americas,Male,70-74,Stroke,2469.074,1072.95286,4221.32952
+Americas,Male,75-79,Stroke,2725.96065,1194.30076,4617.52453
+Americas,Female,All,Chronic obstructive pulmonary disease,14083.46953,3146.30504,34456.10796
+Americas,Female,0-4,Lower respiratory infections,929.53338,444.26888,1480.41332
+Americas,Female,5-9,Lower respiratory infections,68.82018,34.4383,108.03634
+Americas,Female,10-14,Lower respiratory infections,55.396,28.06649,86.65688
+Americas,Female,15-19,Lower respiratory infections,65.40353,32.44362,103.6506
+Americas,Female,20-24,Lower respiratory infections,79.96778,39.06513,128.78139
+Americas,Female,25-29,Lower respiratory infections,94.88228,45.9901,153.5171
+Americas,Female,30-34,Lower respiratory infections,110.0679,52.00227,182.53934
+Americas,Female,35-39,Lower respiratory infections,149.8531,70.7491,247.89265
+Americas,Female,60-64,"Trachea, bronchus, lung cancers",469.8221,223.9236,821.01503
+Americas,Female,65-69,"Trachea, bronchus, lung cancers",576.71069,272.83032,1014.17104
+Americas,Female,70-74,"Trachea, bronchus, lung cancers",643.36582,301.42029,1146.08618
+Americas,Female,75-79,"Trachea, bronchus, lung cancers",591.37694,277.38851,1055.35198
+Americas,Female,80+,"Trachea, bronchus, lung cancers",983.25929,459.53653,1760.2027
+Americas,Female,All,"Trachea, bronchus, lung cancers",3966.78976,1873.5782,7003.41572
+Americas,Male,25-29,Ischaemic heart disease,269.17876,160.43251,354.4594
+Americas,Male,30-34,Ischaemic heart disease,480.02359,283.33622,638.67144
+Americas,Male,35-39,Ischaemic heart disease,850.99616,500.19793,1135.45363
+Americas,Male,40-44,Ischaemic heart disease,1377.18459,810.60873,1838.599
+Americas,Male,45-49,Ischaemic heart disease,2317.96958,1352.74355,3110.69887
+Americas,Male,50-54,Ischaemic heart disease,4079.01141,2358.30941,5512.56431
+Americas,Male,55-59,Ischaemic heart disease,6448.39214,3679.56472,8752.15614
+Americas,Male,60-64,Ischaemic heart disease,8644.78956,4935.97358,11753.6091
+Americas,Male,65-69,Chronic obstructive pulmonary disease,1402.25525,303.65692,3451.0158
+Americas,Male,50-54,Lower respiratory infections,586.00544,267.83963,975.74893
+Americas,Male,55-59,Lower respiratory infections,806.64591,357.16279,1368.90627
+Americas,Male,60-64,Lower respiratory infections,1077.1288,474.30481,1839.90349
+Americas,Male,65-69,Lower respiratory infections,1456.34112,639.10729,2480.01105
+Americas,Male,70-74,Lower respiratory infections,1856.36121,810.29201,3175.11562
+Americas,Male,75-79,Lower respiratory infections,2262.02706,1011.76421,3813.92045
+Americas,Male,80+,Lower respiratory infections,8652.82831,3777.33653,14729.00717
+Americas,Male,70-74,Chronic obstructive pulmonary disease,2042.39911,441.22934,5036.70506
+Americas,Male,75-79,Chronic obstructive pulmonary disease,2298.86927,514.40611,5599.93471
+Americas,Male,80+,Chronic obstructive pulmonary disease,6818.77505,1587.74704,16401.99749
+Americas,Male,All,Chronic obstructive pulmonary disease,14386.36703,3239.17699,35007.87062
+Americas,Male,0-4,Lower respiratory infections,1215.34183,579.80849,1936.0372
+Americas,Male,5-9,Lower respiratory infections,68.37393,34.45608,106.7465
+Americas,Male,10-14,Lower respiratory infections,55.3582,27.69486,87.23079
+Americas,Male,15-19,Lower respiratory infections,101.21271,48.03445,161.41945
+Americas,Male,20-24,Lower respiratory infections,131.35806,61.69364,211.90035
+Americas,Male,25-29,Lower respiratory infections,170.53866,81.68065,273.57452
+Americas,Male,30-34,Lower respiratory infections,189.07225,91.0342,304.39344
+Americas,Male,35-39,Lower respiratory infections,277.02905,131.42199,450.69513
+Americas,Male,40-44,Lower respiratory infections,340.89305,161.13732,553.43069
+Americas,Male,45-49,Lower respiratory infections,433.967,199.76498,717.8415
+Americas,Male,80+,Stroke,7608.22812,3219.65743,13136.32081
+Americas,Male,All,Stroke,19296.80513,8391.70731,32842.34998
+Americas,Male,25-29,Chronic obstructive pulmonary disease,11.72168,3.01173,26.79107
+Americas,Male,30-34,Chronic obstructive pulmonary disease,16.16161,3.99008,37.41637
+Americas,Male,35-39,Chronic obstructive pulmonary disease,29.51275,7.16672,68.94515
+Americas,Male,40-44,Chronic obstructive pulmonary disease,43.37182,10.22278,102.15256
+South-East Asia,Both,50-54,Ischaemic heart disease,37020.19827,25601.46076,46686.20844
+South-East Asia,Both,55-59,Ischaemic heart disease,52379.04354,36222.99936,66045.88998
+South-East Asia,Both,60-64,Ischaemic heart disease,61240.69956,42285.54678,77224.34531
+South-East Asia,Both,65-69,Ischaemic heart disease,67784.87629,46794.30557,85451.71722
+South-East Asia,Both,70-74,Ischaemic heart disease,65372.12402,45042.83164,82450.4379
+South-East Asia,Both,75-79,Ischaemic heart disease,64596.19283,44429.97333,81450.36005
+South-East Asia,Both,80+,Ischaemic heart disease,119584.8195,82263.1538,150786.5538
+South-East Asia,Both,All,Ischaemic heart disease,523623.5259,361179.0248,660279.3453
+South-East Asia,Both,25-29,Stroke,758.89228,405.51663,1144.3945
+South-East Asia,Both,30-34,Stroke,1276.88604,682.14594,1922.28578
+South-East Asia,Both,35-39,Stroke,2559.32969,1371.94439,3850.55998
+Americas,Male,45-49,Chronic obstructive pulmonary disease,87.97383,20.04053,210.72944
+Americas,Male,50-54,Chronic obstructive pulmonary disease,214.01193,47.28221,521.92852
+Americas,Male,55-59,Chronic obstructive pulmonary disease,494.1014,103.70941,1225.8322
+Americas,Male,60-64,Chronic obstructive pulmonary disease,927.21333,196.70115,2296.08382
+Americas,Male,All,Lower respiratory infections,19680.48258,8800.37221,33222.47726
+Americas,Male,25-29,"Trachea, bronchus, lung cancers",7.0062,3.69161,11.45966
+Americas,Male,30-34,"Trachea, bronchus, lung cancers",11.91675,6.2079,19.71407
+Americas,Male,35-39,"Trachea, bronchus, lung cancers",19.57412,9.76433,33.02559
+Americas,Male,40-44,"Trachea, bronchus, lung cancers",41.3407,20.43216,69.96422
+Americas,Male,45-49,"Trachea, bronchus, lung cancers",83.59266,40.86432,143.40756
+Americas,Male,50-54,"Trachea, bronchus, lung cancers",206.45394,100.09559,354.44188
+Americas,Male,55-59,"Trachea, bronchus, lung cancers",450.68779,216.32456,779.42324
+Americas,Male,60-64,"Trachea, bronchus, lung cancers",677.79851,324.94614,1175.60785
+Americas,Male,65-69,"Trachea, bronchus, lung cancers",834.83444,397.8026,1452.6764
+Americas,Male,70-74,"Trachea, bronchus, lung cancers",947.21123,448.38122,1662.73731
+Americas,Male,75-79,"Trachea, bronchus, lung cancers",801.29183,379.85657,1405.25239
+Americas,Male,80+,"Trachea, bronchus, lung cancers",1181.92388,559.00336,2085.51287
+Americas,Male,All,"Trachea, bronchus, lung cancers",5263.63205,2507.58063,9189.71226
+South-East Asia,Both,25-29,Ischaemic heart disease,2635.74955,1823.91652,3322.69548
+South-East Asia,Both,30-34,Ischaemic heart disease,5131.44503,3559.47253,6464.84369
+South-East Asia,Both,35-39,Ischaemic heart disease,9539.06753,6619.6154,12015.34795
+South-East Asia,Both,40-44,Ischaemic heart disease,14446.09252,10011.03869,18209.5576
+South-East Asia,Both,45-49,Ischaemic heart disease,23893.21735,16525.38993,30124.92255
+South-East Asia,Both,65-69,Stroke,34282.30389,18324.46483,51771.07309
+South-East Asia,Both,10-14,Lower respiratory infections,1245.17885,916.99322,1614.24981
+South-East Asia,Both,15-19,Lower respiratory infections,730.18434,533.51508,948.42023
+South-East Asia,Both,20-24,Lower respiratory infections,799.79369,580.01841,1038.92611
+South-East Asia,Both,25-29,Lower respiratory infections,958.2943,695.69514,1244.1551
+South-East Asia,Both,30-34,Lower respiratory infections,1010.07294,733.03867,1313.58932
+South-East Asia,Both,70-74,Stroke,34306.63718,18292.53877,52052.70605
+South-East Asia,Both,75-79,Stroke,34453.91084,18368.49059,52114.4754
+South-East Asia,Both,80+,Stroke,57460.41692,30550.38407,87057.7803
+South-East Asia,Both,All,Stroke,238110.735,126969.8393,361146.6362
+South-East Asia,Both,25-29,Chronic obstructive pulmonary disease,174.15245,71.79548,313.83493
+South-East Asia,Both,30-34,Chronic obstructive pulmonary disease,291.84001,121.87248,516.88638
+South-East Asia,Both,35-39,Chronic obstructive pulmonary disease,641.0024,271.02669,1138.06995
+South-East Asia,Both,40-44,Chronic obstructive pulmonary disease,1196.56871,509.486,2112.50445
+South-East Asia,Both,45-49,Chronic obstructive pulmonary disease,2753.44251,1173.26393,4858.78982
+South-East Asia,Both,50-54,Chronic obstructive pulmonary disease,6745.93847,2884.91557,11885.42118
+South-East Asia,Both,55-59,Chronic obstructive pulmonary disease,12468.3576,5346.97013,21958.37351
+South-East Asia,Both,60-64,Chronic obstructive pulmonary disease,22846.00901,9784.79706,40283.82761
+South-East Asia,Both,65-69,Chronic obstructive pulmonary disease,33091.45212,14198.33129,58311.50943
+South-East Asia,Both,70-74,Chronic obstructive pulmonary disease,40202.7675,17203.75953,70796.84542
+South-East Asia,Both,75-79,Chronic obstructive pulmonary disease,42268.62961,18078.77938,74401.906
+South-East Asia,Both,80+,Chronic obstructive pulmonary disease,83312.86354,35680.70907,146742.8496
+South-East Asia,Both,All,Chronic obstructive pulmonary disease,245993.0239,105325.015,433572.9387
+South-East Asia,Both,0-4,Lower respiratory infections,29884.99781,21671.23019,38825.9373
+South-East Asia,Both,5-9,Lower respiratory infections,1563.51923,1151.40693,2027.98553
+South-East Asia,Both,40-44,Stroke,4064.39427,2174.95056,6125.59915
+South-East Asia,Both,45-49,Stroke,7286.32778,3884.59974,11043.56152
+South-East Asia,Both,50-54,Stroke,13473.63764,7185.9644,20358.69182
+South-East Asia,Both,55-59,Stroke,19961.77992,10669.35001,30150.58773
+South-East Asia,Both,60-64,Stroke,28226.2186,15097.2128,42617.30944
+South-East Asia,Both,35-39,Lower respiratory infections,1579.31784,1150.01552,2049.75916
+South-East Asia,Female,25-29,Ischaemic heart disease,880.68697,610.51729,1109.77624
+South-East Asia,Female,30-34,Ischaemic heart disease,1382.1102,955.96178,1742.53111
+South-East Asia,Female,35-39,Ischaemic heart disease,2561.41209,1772.75606,3229.67019
+South-East Asia,Female,40-44,Ischaemic heart disease,4348.37021,3016.11566,5477.90077
+South-East Asia,Female,45-49,Ischaemic heart disease,6809.60167,4695.01116,8581.87488
+South-East Asia,Both,40-44,Lower respiratory infections,1842.12416,1337.63053,2392.04894
+South-East Asia,Both,45-49,Lower respiratory infections,2477.27778,1797.43525,3218.91376
+South-East Asia,Both,50-54,Lower respiratory infections,4275.27391,3101.64901,5553.8288
+South-East Asia,Both,55-59,Lower respiratory infections,6252.70583,4537.52841,8122.6025
+South-East Asia,Both,60-64,Lower respiratory infections,10551.36288,7655.24916,13702.33209
+South-East Asia,Both,65-69,Lower respiratory infections,14785.24029,10733.54964,19196.28585
+South-East Asia,Both,70-74,Lower respiratory infections,17486.17616,12685.40692,22714.72248
+South-East Asia,Both,75-79,Lower respiratory infections,18177.82758,13183.9731,23604.02633
+South-East Asia,Both,80+,Lower respiratory infections,39147.24982,28379.95236,50861.01174
+South-East Asia,Both,All,Lower respiratory infections,152766.5974,110751.0782,198350.8002
+South-East Asia,Both,25-29,"Trachea, bronchus, lung cancers",90.47889,57.21229,128.93462
+South-East Asia,Both,30-34,"Trachea, bronchus, lung cancers",173.4405,109.83011,246.57126
+South-East Asia,Both,35-39,"Trachea, bronchus, lung cancers",351.99388,222.56821,500.8614
+South-East Asia,Both,40-44,"Trachea, bronchus, lung cancers",688.42053,433.84219,987.05314
+South-East Asia,Both,45-49,"Trachea, bronchus, lung cancers",1404.99345,879.10276,2027.24219
+South-East Asia,Both,50-54,"Trachea, bronchus, lung cancers",2388.91858,1498.03607,3447.78039
+South-East Asia,Both,55-59,"Trachea, bronchus, lung cancers",3387.50778,2122.53182,4883.65754
+South-East Asia,Both,60-64,"Trachea, bronchus, lung cancers",4188.20698,2623.81516,6040.44854
+South-East Asia,Both,65-69,"Trachea, bronchus, lung cancers",4351.86433,2729.23414,6246.63575
+South-East Asia,Both,70-74,"Trachea, bronchus, lung cancers",4061.41888,2549.69534,5847.092
+South-East Asia,Both,75-79,"Trachea, bronchus, lung cancers",3244.83584,2034.53764,4672.52758
+South-East Asia,Both,80+,"Trachea, bronchus, lung cancers",3325.89941,2079.9792,4790.73098
+South-East Asia,Both,All,"Trachea, bronchus, lung cancers",27657.97905,17368.76858,39811.12277
+South-East Asia,Female,50-54,Ischaemic heart disease,12257.25455,8478.06931,15455.1231
+South-East Asia,Female,45-49,Chronic obstructive pulmonary disease,946.80798,404.16758,1670.71621
+South-East Asia,Female,50-54,Chronic obstructive pulmonary disease,2599.31982,1117.7816,4583.65448
+South-East Asia,Female,55-59,Chronic obstructive pulmonary disease,4306.02847,1852.87228,7595.90476
+South-East Asia,Female,60-64,Chronic obstructive pulmonary disease,8559.7743,3684.9523,15122.48297
+South-East Asia,Female,65-69,Chronic obstructive pulmonary disease,12475.35918,5373.46213,22080.02725
+South-East Asia,Female,55-59,Ischaemic heart disease,16522.81318,11419.78919,20831.81742
+South-East Asia,Female,60-64,Ischaemic heart disease,21795.08427,15060.22442,27485.65898
+South-East Asia,Female,65-69,Ischaemic heart disease,26143.92456,18055.66497,32959.66595
+South-East Asia,Female,70-74,Ischaemic heart disease,28217.65308,19424.06175,35590.00944
+South-East Asia,Female,75-79,Ischaemic heart disease,30140.76488,20700.79591,37979.49023
+South-East Asia,Female,80+,Ischaemic heart disease,60166.44241,41295.26639,75793.0538
+South-East Asia,Female,All,Ischaemic heart disease,211226.1181,145391.9753,266338.6195
+South-East Asia,Female,25-29,Stroke,300.74778,161.17067,452.72375
+South-East Asia,Female,30-34,Stroke,425.73032,227.22789,642.66749
+South-East Asia,Female,35-39,Stroke,951.73519,508.11932,1437.24105
+South-East Asia,Female,40-44,Stroke,1634.59904,878.00971,2458.96783
+South-East Asia,Female,45-49,Stroke,3068.11467,1634.68148,4656.69843
+South-East Asia,Female,50-54,Stroke,6070.82508,3237.32559,9167.27747
+South-East Asia,Female,55-59,Stroke,8253.31701,4399.59216,12483.64843
+South-East Asia,Female,60-64,Stroke,12365.26092,6639.74647,18638.89213
+South-East Asia,Female,65-69,Stroke,15390.83269,8239.74336,23233.04767
+South-East Asia,Female,70-74,Stroke,16660.15592,8880.97415,25237.1029
+South-East Asia,Female,75-79,Stroke,17866.73264,9504.8157,27011.89592
+South-East Asia,Female,80+,Stroke,33060.84349,17594.23424,49870.96054
+South-East Asia,Female,All,Stroke,116048.8948,61862.05644,175519.8836
+South-East Asia,Female,25-29,Chronic obstructive pulmonary disease,71.6588,29.55332,129.25309
+South-East Asia,Female,30-34,Chronic obstructive pulmonary disease,110.10702,46.12628,195.04545
+South-East Asia,Female,35-39,Chronic obstructive pulmonary disease,232.69106,98.03461,414.14838
+South-East Asia,Female,40-44,Chronic obstructive pulmonary disease,434.24467,184.99898,766.48407
+South-East Asia,Female,70-74,Chronic obstructive pulmonary disease,16921.35889,7281.72749,29871.6081
+South-East Asia,Female,40-44,"Trachea, bronchus, lung cancers",269.85089,170.04276,385.13053
+South-East Asia,Female,45-49,"Trachea, bronchus, lung cancers",432.93239,271.52795,621.70294
+South-East Asia,Female,50-54,"Trachea, bronchus, lung cancers",757.90727,475.40279,1085.27773
+South-East Asia,Female,55-59,"Trachea, bronchus, lung cancers",917.19986,571.63724,1319.1344
+South-East Asia,Female,60-64,"Trachea, bronchus, lung cancers",1164.71746,726.04269,1679.31714
+South-East Asia,Female,65-69,"Trachea, bronchus, lung cancers",1191.26798,742.2653,1719.80569
+South-East Asia,Female,75-79,Chronic obstructive pulmonary disease,18263.11208,7839.86969,32146.55306
+South-East Asia,Female,80+,Chronic obstructive pulmonary disease,41387.65516,17772.88082,72851.06899
+South-East Asia,Female,All,Chronic obstructive pulmonary disease,106308.1174,45691.54709,187328.5296
+South-East Asia,Female,0-4,Lower respiratory infections,13806.09198,10058.84665,17897.54498
+South-East Asia,Female,5-9,Lower respiratory infections,942.94077,696.81371,1220.76839
+South-East Asia,Female,10-14,Lower respiratory infections,687.49993,508.50624,889.44923
+South-East Asia,Female,15-19,Lower respiratory infections,393.61012,288.03681,510.82049
+South-East Asia,Female,20-24,Lower respiratory infections,402.81794,294.55192,522.80015
+South-East Asia,Female,25-29,Lower respiratory infections,479.72619,350.7218,622.53571
+South-East Asia,Female,30-34,Lower respiratory infections,432.87372,314.78066,562.07119
+South-East Asia,Female,35-39,Lower respiratory infections,745.21439,544.90336,967.11492
+South-East Asia,Female,40-44,Lower respiratory infections,880.51575,644.53733,1142.36919
+South-East Asia,Female,45-49,Lower respiratory infections,1047.85924,761.72826,1360.6911
+South-East Asia,Female,50-54,Lower respiratory infections,2147.0586,1570.00624,2785.90412
+South-East Asia,Female,55-59,Lower respiratory infections,2856.57197,2087.36889,3707.69287
+South-East Asia,Female,60-64,Lower respiratory infections,5094.3322,3729.74561,6606.86716
+South-East Asia,Female,65-69,Lower respiratory infections,7541.87066,5527.4052,9780.80494
+South-East Asia,Female,70-74,Lower respiratory infections,9256.20299,6731.65719,12017.32564
+South-East Asia,Female,75-79,Lower respiratory infections,9322.33342,6759.52744,12100.814
+South-East Asia,Female,80+,Lower respiratory infections,20964.61611,15196.35234,27240.46408
+South-East Asia,Female,All,Lower respiratory infections,77002.13596,55828.96631,100015.7579
+South-East Asia,Female,25-29,"Trachea, bronchus, lung cancers",34.85103,21.89886,50.00249
+South-East Asia,Female,30-34,"Trachea, bronchus, lung cancers",72.91197,45.8804,103.98599
+South-East Asia,Female,35-39,"Trachea, bronchus, lung cancers",138.74086,87.22888,197.62442
+South-East Asia,Female,70-74,"Trachea, bronchus, lung cancers",1270.40375,790.35918,1838.04433
+South-East Asia,Male,60-64,Stroke,15860.95769,8458.10685,24006.37992
+South-East Asia,Male,65-69,Stroke,18891.4712,10084.72146,28553.94482
+South-East Asia,Male,70-74,Stroke,17646.48126,9411.56462,26730.39048
+South-East Asia,Male,75-79,Stroke,16587.1782,8846.85241,25148.08906
+South-East Asia,Male,80+,Stroke,24399.57343,13019.79884,36885.5948
+South-East Asia,Female,75-79,"Trachea, bronchus, lung cancers",1093.09394,681.34953,1587.18051
+South-East Asia,Female,80+,"Trachea, bronchus, lung cancers",1338.52048,832.92426,1944.02102
+South-East Asia,Female,All,"Trachea, bronchus, lung cancers",8682.39789,5431.84141,12521.64039
+South-East Asia,Male,25-29,Ischaemic heart disease,1755.06257,1213.40055,2212.01081
+South-East Asia,Male,30-34,Ischaemic heart disease,3749.33483,2603.52919,4720.6893
+South-East Asia,Male,35-39,Ischaemic heart disease,6977.65543,4846.87575,8784.36295
+South-East Asia,Male,40-44,Ischaemic heart disease,10097.72231,6994.92302,12729.38893
+South-East Asia,Male,45-49,Ischaemic heart disease,17083.61568,11830.41269,21542.51069
+South-East Asia,Male,50-54,Ischaemic heart disease,24762.94371,17123.39145,31231.08534
+South-East Asia,Male,55-59,Ischaemic heart disease,35856.23036,24803.21017,45214.07257
+South-East Asia,Male,60-64,Ischaemic heart disease,39445.61528,27225.32236,49738.18587
+South-East Asia,Male,65-69,Ischaemic heart disease,41640.95174,28738.6406,52491.99305
+South-East Asia,Male,70-74,Ischaemic heart disease,37154.47094,25618.76988,46860.42846
+South-East Asia,Male,75-79,Ischaemic heart disease,34455.42795,23729.17743,43448.65469
+South-East Asia,Male,80+,Ischaemic heart disease,59418.37706,41060.00916,74939.8598
+South-East Asia,Male,All,Ischaemic heart disease,312397.4079,215787.0495,393937.1903
+South-East Asia,Male,25-29,Stroke,458.1445,244.91157,691.94237
+South-East Asia,Male,30-34,Stroke,851.15573,454.91805,1284.23288
+South-East Asia,Male,35-39,Stroke,1607.5945,863.09792,2424.19682
+South-East Asia,Male,40-44,Stroke,2429.79522,1297.13188,3666.30955
+South-East Asia,Male,45-49,Stroke,4218.21311,2249.98254,6380.74364
+South-East Asia,Male,50-54,Stroke,7402.81256,3948.63882,11196.74078
+South-East Asia,Male,55-59,Stroke,11708.4629,6273.46302,17666.9393
+South-East Asia,Male,All,Stroke,122061.8403,65109.44136,184617.6497
+South-East Asia,Male,55-59,Lower respiratory infections,3396.13387,2464.98421,4412.21877
+South-East Asia,Male,60-64,Lower respiratory infections,5457.03068,3958.43261,7082.48954
+South-East Asia,Male,65-69,Lower respiratory infections,7243.36963,5254.31265,9400.43175
+South-East Asia,Male,70-74,Lower respiratory infections,8229.97317,5962.97446,10685.36604
+South-East Asia,Male,75-79,Lower respiratory infections,8855.49416,6424.44566,11503.21233
+South-East Asia,Male,80+,Lower respiratory infections,18182.63372,13183.60003,23627.83271
+South-East Asia,Male,25-29,Chronic obstructive pulmonary disease,102.49365,42.24216,184.58184
+South-East Asia,Male,30-34,Chronic obstructive pulmonary disease,181.73299,75.78602,322.66091
+South-East Asia,Male,35-39,Chronic obstructive pulmonary disease,408.31134,172.85154,723.92157
+South-East Asia,Male,40-44,Chronic obstructive pulmonary disease,762.32404,324.48461,1346.02038
+South-East Asia,Male,40-44,"Trachea, bronchus, lung cancers",418.56964,262.66679,602.09966
+South-East Asia,Male,45-49,"Trachea, bronchus, lung cancers",972.06106,606.6747,1405.53925
+South-East Asia,Male,50-54,"Trachea, bronchus, lung cancers",1631.01131,1019.85493,2359.50724
+South-East Asia,Male,55-59,"Trachea, bronchus, lung cancers",2470.30792,1547.83461,3564.54602
+South-East Asia,Male,60-64,"Trachea, bronchus, lung cancers",3023.48952,1894.76975,4363.79205
+South-East Asia,Male,65-69,"Trachea, bronchus, lung cancers",3160.59635,1988.01548,4530.82582
+South-East Asia,Male,70-74,"Trachea, bronchus, lung cancers",2791.01514,1756.65371,4008.60682
+South-East Asia,Male,75-79,"Trachea, bronchus, lung cancers",2151.7419,1354.68372,3084.94021
+South-East Asia,Male,80+,"Trachea, bronchus, lung cancers",1987.37892,1246.15647,2845.95606
+South-East Asia,Male,All,"Trachea, bronchus, lung cancers",18975.58117,11930.42424,27289.48238
+Europe,Both,25-29,Ischaemic heart disease,257.50587,161.89461,338.96328
+Europe,Both,30-34,Ischaemic heart disease,672.04363,410.37133,900.98545
+Europe,Both,35-39,Ischaemic heart disease,1435.87622,866.95119,1934.92401
+Europe,Both,40-44,Ischaemic heart disease,2866.31448,1719.22007,3863.21598
+Europe,Both,45-49,Ischaemic heart disease,5087.88867,3075.00461,6855.47846
+Europe,Both,50-54,Ischaemic heart disease,8645.46502,5225.42299,11629.51021
+Europe,Both,55-59,Ischaemic heart disease,15700.67403,9413.29834,21175.48979
+Europe,Both,60-64,Ischaemic heart disease,24440.52963,14567.42381,33016.60104
+Europe,Both,65-69,Ischaemic heart disease,33313.62547,19956.52605,44965.25359
+Europe,Both,70-74,Ischaemic heart disease,35529.57285,21419.9765,47943.70099
+Europe,Both,75-79,Ischaemic heart disease,46776.13608,28214.05042,63103.09343
+Europe,Both,80+,Ischaemic heart disease,200506.9057,119394.9691,270465.3838
+Europe,Both,All,Ischaemic heart disease,375232.5377,225276.4745,505480.7089
+Europe,Both,25-29,Stroke,87.03156,42.78063,137.80492
+Europe,Both,30-34,Stroke,197.02983,95.13014,322.63405
+South-East Asia,Male,45-49,Chronic obstructive pulmonary disease,1806.63453,769.09635,3188.0736
+South-East Asia,Male,50-54,Chronic obstructive pulmonary disease,4146.61865,1767.13397,7309.21403
+South-East Asia,Male,55-59,Chronic obstructive pulmonary disease,8162.32913,3494.09785,14390.26576
+South-East Asia,Male,60-64,Chronic obstructive pulmonary disease,14286.23471,6094.71282,25194.14413
+South-East Asia,Male,65-69,Chronic obstructive pulmonary disease,20616.09294,8807.72568,36330.00151
+South-East Asia,Male,70-74,Chronic obstructive pulmonary disease,23281.40861,9913.80846,41093.06408
+South-East Asia,Male,75-79,Chronic obstructive pulmonary disease,24005.51752,10231.34344,42345.10943
+South-East Asia,Male,80+,Chronic obstructive pulmonary disease,41925.20838,17896.45951,73833.08254
+South-East Asia,Male,All,Chronic obstructive pulmonary disease,139684.9065,59589.0251,246228.3967
+South-East Asia,Male,0-4,Lower respiratory infections,16078.90583,11636.4777,20883.66697
+South-East Asia,Male,5-9,Lower respiratory infections,620.57846,454.68831,805.28639
+South-East Asia,Male,10-14,Lower respiratory infections,557.67892,408.56642,723.88876
+South-East Asia,Male,15-19,Lower respiratory infections,336.57422,243.85257,437.44632
+South-East Asia,Male,20-24,Lower respiratory infections,396.97575,286.23655,516.60197
+South-East Asia,Male,25-29,Lower respiratory infections,478.56811,347.13474,621.61354
+South-East Asia,Male,30-34,Lower respiratory infections,577.19922,418.88354,749.24646
+South-East Asia,Male,35-39,Lower respiratory infections,834.10345,605.44181,1084.73322
+South-East Asia,Male,40-44,Lower respiratory infections,961.60841,698.20348,1249.65533
+South-East Asia,Male,45-49,Lower respiratory infections,1429.41854,1037.25918,1857.41898
+South-East Asia,Male,50-54,Lower respiratory infections,2128.21532,1544.39429,2765.11753
+South-East Asia,Male,All,Lower respiratory infections,75764.46145,54924.56063,98347.77586
+South-East Asia,Male,25-29,"Trachea, bronchus, lung cancers",55.62786,35.359,78.89417
+South-East Asia,Male,30-34,"Trachea, bronchus, lung cancers",100.52853,64.03141,142.58528
+South-East Asia,Male,35-39,"Trachea, bronchus, lung cancers",213.25301,135.44814,303.23698
+Europe,Both,75-79,Chronic obstructive pulmonary disease,4712.05583,1240.75916,10644.95811
+Europe,Both,5-9,Lower respiratory infections,174.1332,113.69061,241.69374
+Europe,Both,10-14,Lower respiratory infections,132.01991,84.70552,185.47868
+Europe,Both,15-19,Lower respiratory infections,114.70449,72.11865,162.60736
+Europe,Both,20-24,Lower respiratory infections,128.12069,77.03092,184.55996
+Europe,Both,25-29,Lower respiratory infections,175.15424,98.16811,264.197
+Europe,Both,30-34,Lower respiratory infections,302.42581,152.15192,491.25026
+Europe,Both,80+,Chronic obstructive pulmonary disease,16706.09656,4309.98293,38245.62703
+Europe,Both,All,Chronic obstructive pulmonary disease,32352.74116,8459.89138,73414.36676
+Europe,Both,0-4,Lower respiratory infections,1588.34582,1064.81173,2187.0095
+Europe,Both,35-39,Stroke,397.21407,190.06029,651.16522
+Europe,Both,40-44,Stroke,742.43404,356.19914,1217.06562
+Europe,Both,45-49,Stroke,1238.72837,597.14543,2028.88084
+Europe,Both,50-54,Stroke,2032.2547,985.31719,3320.97834
+Europe,Both,55-59,Stroke,3678.42361,1780.08047,6011.54888
+Europe,Both,60-64,Stroke,5789.57807,2782.59029,9514.47162
+Europe,Both,80+,Lower respiratory infections,20055.07602,8437.80801,34531.82483
+Europe,Both,All,Lower respiratory infections,35184.5968,15754.33898,58695.17992
+Europe,Both,25-29,"Trachea, bronchus, lung cancers",16.66394,9.44453,26.269
+Europe,Both,30-34,"Trachea, bronchus, lung cancers",35.69457,19.36012,57.02111
+Europe,Both,35-39,"Trachea, bronchus, lung cancers",83.08222,43.56441,134.87751
+Europe,Both,40-44,"Trachea, bronchus, lung cancers",210.69582,112.12539,343.36506
+Europe,Both,45-49,"Trachea, bronchus, lung cancers",607.7838,316.32339,989.3089
+Europe,Both,50-54,"Trachea, bronchus, lung cancers",1318.68332,680.98812,2155.93716
+Europe,Both,55-59,"Trachea, bronchus, lung cancers",2583.97569,1322.26318,4244.55755
+Europe,Both,60-64,"Trachea, bronchus, lung cancers",3797.85074,1939.15548,6264.38961
+Europe,Both,65-69,"Trachea, bronchus, lung cancers",4348.40426,2216.34195,7183.91897
+Europe,Both,70-74,"Trachea, bronchus, lung cancers",4027.20155,2037.50784,6743.60096
+Europe,Both,75-79,"Trachea, bronchus, lung cancers",3061.30548,1541.05423,5140.10865
+Europe,Both,80+,"Trachea, bronchus, lung cancers",4591.4647,2293.88053,7774.51569
+Europe,Both,All,"Trachea, bronchus, lung cancers",24682.80609,12528.71071,41077.11858
+Europe,Female,25-29,Ischaemic heart disease,65.88262,42.28713,85.33438
+Europe,Female,30-34,Ischaemic heart disease,142.51879,90.1132,187.45787
+Europe,Female,35-39,Ischaemic heart disease,279.04585,171.6696,372.70159
+Europe,Female,40-44,Ischaemic heart disease,533.23179,324.78924,714.56929
+Europe,Female,45-49,Ischaemic heart disease,985.91828,601.75665,1318.59262
+Europe,Female,50-54,Ischaemic heart disease,1745.05819,1068.90447,2335.30756
+Europe,Both,65-69,Stroke,8567.85237,4100.71438,14083.26276
+Europe,Both,70-74,Stroke,9786.36723,4581.58519,16132.99741
+Europe,Both,75-79,Stroke,13529.98534,6328.79512,22310.81244
+Europe,Both,80+,Stroke,55436.15778,24479.40115,93290.77579
+Europe,Both,All,Stroke,101483.057,46984.06571,168509.5581
+Europe,Both,25-29,Chronic obstructive pulmonary disease,19.79102,6.81339,39.61581
+Europe,Both,30-34,Chronic obstructive pulmonary disease,35.52872,11.74885,73.0168
+Europe,Both,35-39,Chronic obstructive pulmonary disease,63.54122,19.77188,133.5719
+Europe,Both,40-44,Chronic obstructive pulmonary disease,119.44963,35.3969,255.34247
+Europe,Both,45-49,Chronic obstructive pulmonary disease,222.71473,63.79874,482.6939
+Europe,Both,50-54,Chronic obstructive pulmonary disease,483.34673,133.98691,1067.8448
+Europe,Both,55-59,Chronic obstructive pulmonary disease,1036.15462,279.72424,2300.23689
+Europe,Both,60-64,Chronic obstructive pulmonary disease,2005.69499,534.77346,4471.58663
+Europe,Both,65-69,Chronic obstructive pulmonary disease,3023.23066,808.43311,6754.75023
+Europe,Both,70-74,Chronic obstructive pulmonary disease,3925.13645,1029.44941,8883.32093
+Europe,Both,35-39,Lower respiratory infections,463.56209,222.02915,770.05517
+Europe,Both,40-44,Lower respiratory infections,603.08014,283.17138,1012.52382
+Europe,Both,45-49,Lower respiratory infections,696.28863,329.01759,1163.15052
+Europe,Both,50-54,Lower respiratory infections,819.30606,390.08311,1356.56589
+Europe,Both,55-59,Lower respiratory infections,1192.29875,567.07709,1978.56335
+Europe,Both,60-64,Lower respiratory infections,1558.22578,739.77833,2579.87639
+Europe,Both,65-69,Lower respiratory infections,1887.33885,903.63878,3061.68619
+Europe,Both,70-74,Lower respiratory infections,2246.54678,1032.73171,3693.69228
+Europe,Both,75-79,Lower respiratory infections,3047.96957,1377.86025,5073.42338
+Europe,Female,70-74,Stroke,4665.74387,2180.89665,7685.62857
+Europe,Female,50-54,Chronic obstructive pulmonary disease,147.06077,40.83182,327.7426
+Europe,Female,55-59,Chronic obstructive pulmonary disease,326.23935,87.99661,733.41215
+Europe,Female,60-64,Chronic obstructive pulmonary disease,647.38559,172.56919,1460.47511
+Europe,Female,65-69,Chronic obstructive pulmonary disease,1016.66271,270.1852,2291.79724
+Europe,Female,70-74,Chronic obstructive pulmonary disease,1418.1854,370.93483,3226.9481
+Europe,Female,75-79,Chronic obstructive pulmonary disease,1833.755,482.55005,4145.21798
+Europe,Female,75-79,Stroke,7600.49385,3536.47689,12560.91684
+Europe,Female,80+,Stroke,37978.21973,16637.22614,64152.47654
+Europe,Female,All,Stroke,58904.62869,27053.71822,98289.96566
+Europe,Female,25-29,Chronic obstructive pulmonary disease,7.97044,2.90895,15.55136
+Europe,Female,30-34,Chronic obstructive pulmonary disease,13.11954,4.57085,26.20403
+Europe,Female,35-39,Chronic obstructive pulmonary disease,20.77056,6.93555,42.50441
+Europe,Female,40-44,Chronic obstructive pulmonary disease,34.64022,10.82077,72.80707
+Europe,Female,45-49,Chronic obstructive pulmonary disease,65.38341,19.08032,140.87121
+Europe,Female,55-59,Ischaemic heart disease,3703.26949,2252.43489,4975.9877
+Europe,Female,60-64,Ischaemic heart disease,6770.59193,4085.17904,9133.10726
+Europe,Female,65-69,Ischaemic heart disease,11554.72592,6997.64421,15597.5835
+Europe,Female,70-74,Ischaemic heart disease,14622.32089,8812.72167,19744.36525
+Europe,Female,75-79,Ischaemic heart disease,23771.79449,14325.4735,32112.28777
+Europe,Female,80+,Ischaemic heart disease,129970.2487,77456.74198,175472.1418
+Europe,Female,60-64,Lower respiratory infections,449.89008,220.64122,726.48188
+Europe,Female,65-69,Lower respiratory infections,637.14112,314.33465,1019.41249
+Europe,Female,70-74,Lower respiratory infections,858.54389,401.2264,1397.30864
+Europe,Female,75-79,Lower respiratory infections,1336.91503,616.40389,2200.23492
+Europe,Female,80+,Lower respiratory infections,11492.37082,4875.56833,19756.31969
+Europe,Female,All,Lower respiratory infections,16826.64141,7501.15678,28195.17291
+Europe,Female,25-29,"Trachea, bronchus, lung cancers",6.9626,3.96515,10.98413
+Europe,Female,30-34,"Trachea, bronchus, lung cancers",14.10591,7.61009,22.67843
+Europe,Female,35-39,"Trachea, bronchus, lung cancers",30.24995,16.11784,49.06329
+Europe,Female,40-44,"Trachea, bronchus, lung cancers",70.7269,36.98516,115.96987
+Europe,Female,45-49,"Trachea, bronchus, lung cancers",164.25232,84.26386,270.97915
+Europe,Female,50-54,"Trachea, bronchus, lung cancers",331.16383,168.23471,551.20654
+Europe,Female,55-59,"Trachea, bronchus, lung cancers",625.73854,315.46705,1048.47104
+Europe,Female,60-64,"Trachea, bronchus, lung cancers",913.77736,461.70799,1530.36821
+Europe,Female,65-69,"Trachea, bronchus, lung cancers",1079.75167,545.93295,1808.07828
+Europe,Female,70-74,"Trachea, bronchus, lung cancers",1081.45076,541.80025,1826.88221
+Europe,Female,75-79,"Trachea, bronchus, lung cancers",852.31443,425.16334,1444.99461
+Europe,Female,80+,"Trachea, bronchus, lung cancers",1534.96293,764.92016,2607.31049
+Europe,Female,All,Ischaemic heart disease,194144.6069,116258.2297,262108.1692
+Europe,Female,25-29,Stroke,31.74883,15.75662,49.47453
+Europe,Female,30-34,Stroke,69.95377,34.26912,112.81192
+Europe,Female,35-39,Stroke,135.16126,65.2763,219.51616
+Europe,Female,40-44,Stroke,249.45367,120.86985,407.31922
+Europe,Female,45-49,Stroke,430.15445,208.51638,701.84825
+Europe,Female,50-54,Stroke,710.43512,346.70141,1151.61464
+Europe,Female,55-59,Stroke,1305.82759,636.9488,2114.92659
+Europe,Female,60-64,Stroke,2128.99947,1031.52943,3486.02181
+Europe,Female,65-69,Stroke,3598.43708,1732.25962,5909.14129
+Europe,Female,80+,Chronic obstructive pulmonary disease,8048.46239,2087.33002,18337.46318
+Europe,Female,All,Chronic obstructive pulmonary disease,13579.63538,3554.53877,30819.8591
+Europe,Female,0-4,Lower respiratory infections,666.06373,446.39168,918.7579
+Europe,Female,5-9,Lower respiratory infections,84.77904,55.15053,118.15073
+Europe,Female,10-14,Lower respiratory infections,61.72422,39.59573,86.80926
+Europe,Female,15-19,Lower respiratory infections,49.50318,31.25675,69.61445
+Europe,Female,20-24,Lower respiratory infections,55.50355,34.89713,78.62452
+Europe,Female,25-29,Lower respiratory infections,69.12317,40.75204,101.47591
+Europe,Female,30-34,Lower respiratory infections,95.35442,50.65644,148.82209
+Europe,Female,35-39,Lower respiratory infections,128.34719,63.94818,206.89809
+Europe,Female,40-44,Lower respiratory infections,154.08042,76.65719,249.49859
+Europe,Female,45-49,Lower respiratory infections,169.34646,84.15593,273.91835
+Europe,Female,50-54,Lower respiratory infections,206.63242,102.94189,333.34557
+Europe,Female,55-59,Lower respiratory infections,311.32269,154.49118,504.84826
+Europe,Male,70-74,Ischaemic heart disease,20907.25196,12577.4113,28166.40711
+Europe,Male,75-79,Stroke,5929.49149,2755.98631,9775.48731
+Europe,Male,80+,Stroke,17457.93805,7867.49135,29131.02242
+Europe,Male,All,Stroke,42578.42828,19755.79368,70330.27136
+Europe,Male,25-29,Chronic obstructive pulmonary disease,11.82058,3.95094,23.95498
+Europe,Male,30-34,Chronic obstructive pulmonary disease,22.40917,7.09489,46.90356
+Europe,Male,35-39,Chronic obstructive pulmonary disease,42.77065,12.86414,91.07007
+Europe,Male,75-79,Ischaemic heart disease,23004.3416,13852.8863,30945.45149
+Europe,Male,80+,Ischaemic heart disease,70536.65701,42108.14978,94963.74373
+Europe,Male,All,Ischaemic heart disease,181087.9307,108697.8556,243556.1896
+Europe,Male,25-29,Stroke,55.28274,27.0002,88.28263
+Europe,Male,30-34,Stroke,127.07606,60.84887,208.73213
+Europe,Male,35-39,Stroke,262.0528,124.62549,430.74627
+Europe,Male,40-44,Stroke,492.98038,234.95888,809.7464
+Europe,Male,45-49,Stroke,808.57392,388.62905,1325.63782
+Europe,Male,50-54,Stroke,1321.81958,638.61578,2166.1688
+Europe,Male,55-59,Stroke,2372.59602,1143.13166,3889.53975
+Europe,Male,60-64,Stroke,3660.5786,1748.1272,6024.09377
+Europe,Male,65-69,Stroke,4969.41529,2363.04723,8174.12147
+Europe,Male,70-74,Stroke,5120.62337,2395.24842,8447.36885
+Europe,Female,All,"Trachea, bronchus, lung cancers",6705.45718,3370.80898,11291.83243
+Europe,Male,25-29,Ischaemic heart disease,191.62325,119.4673,254.41986
+Europe,Male,30-34,Ischaemic heart disease,529.52484,321.72242,713.187
+Europe,Male,35-39,Ischaemic heart disease,1156.83037,692.96732,1559.1007
+Europe,Male,40-44,Ischaemic heart disease,2333.08269,1394.62153,3146.84767
+Europe,Male,45-49,Lower respiratory infections,526.94217,245.38992,885.45859
+Europe,Male,50-54,Lower respiratory infections,612.67364,285.8693,1021.22196
+Europe,Male,55-59,Lower respiratory infections,880.97606,410.5477,1471.75102
+Europe,Male,60-64,Lower respiratory infections,1108.3357,514.59038,1847.23321
+Europe,Male,65-69,Lower respiratory infections,1250.19773,585.80023,2056.91961
+Europe,Male,70-74,Lower respiratory infections,1388.00289,631.51457,2291.50931
+Europe,Male,75-79,Lower respiratory infections,1711.05454,763.85779,2871.6219
+Europe,Male,80+,Lower respiratory infections,8562.7052,3574.44118,14780.56113
+Europe,Male,All,Lower respiratory infections,18357.95538,8261.62273,30636.14505
+Europe,Male,25-29,"Trachea, bronchus, lung cancers",9.70134,5.47843,15.26716
+Europe,Male,30-34,"Trachea, bronchus, lung cancers",21.58866,11.75029,34.37584
+Europe,Male,35-39,"Trachea, bronchus, lung cancers",52.83227,27.61243,85.48224
+Europe,Male,40-44,"Trachea, bronchus, lung cancers",139.96892,75.14286,227.37504
+Europe,Male,45-49,Ischaemic heart disease,4101.97038,2462.62748,5534.38253
+Europe,Male,50-54,Ischaemic heart disease,6900.40683,4152.83386,9300.39544
+Europe,Male,55-59,Ischaemic heart disease,11997.40454,7169.44532,16202.56442
+Europe,Male,60-64,Ischaemic heart disease,17669.9377,10496.65495,23922.31585
+Europe,Male,65-69,Ischaemic heart disease,21758.89955,13000.69966,29413.92835
+Europe,Male,40-44,Chronic obstructive pulmonary disease,84.80941,24.80554,182.81803
+Europe,Male,45-49,Chronic obstructive pulmonary disease,157.33132,44.55743,341.77072
+Europe,Male,50-54,Chronic obstructive pulmonary disease,336.28597,92.62015,738.89776
+Europe,Male,55-59,Chronic obstructive pulmonary disease,709.91528,192.73283,1571.48888
+Europe,Male,60-64,Chronic obstructive pulmonary disease,1358.3094,366.1739,3017.52728
+Europe,Male,65-69,Chronic obstructive pulmonary disease,2006.56795,536.8878,4455.19292
+Europe,Male,70-74,Chronic obstructive pulmonary disease,2506.95105,661.01296,5662.19788
+Europe,Male,75-79,Chronic obstructive pulmonary disease,2878.30083,758.20911,6499.60841
+Europe,Male,80+,Chronic obstructive pulmonary disease,8657.63416,2213.84607,19911.08396
+Europe,Male,All,Chronic obstructive pulmonary disease,18773.10578,4918.26086,42594.50767
+Europe,Male,0-4,Lower respiratory infections,922.28209,618.42865,1266.85921
+Europe,Male,5-9,Lower respiratory infections,89.35416,58.54008,123.86136
+Europe,Male,10-14,Lower respiratory infections,70.29568,45.10979,98.66942
+Europe,Male,15-19,Lower respiratory infections,65.20131,40.85641,92.31319
+Europe,Male,20-24,Lower respiratory infections,72.61714,42.4922,106.54243
+Europe,Male,25-29,Lower respiratory infections,106.03108,57.42018,162.28083
+Europe,Male,30-34,Lower respiratory infections,207.07139,100.51189,342.95679
+Europe,Male,35-39,Lower respiratory infections,335.2149,158.31958,564.56008
+Europe,Male,40-44,Lower respiratory infections,448.99971,207.44098,761.61882
+Europe,Male,75-79,"Trachea, bronchus, lung cancers",2208.99106,1115.89088,3695.11405
+Eastern Mediterranean,Both,35-39,Stroke,1163.46879,639.83176,1759.45748
+Eastern Mediterranean,Both,40-44,Stroke,1744.44457,959.24371,2635.58003
+Eastern Mediterranean,Both,45-49,Stroke,2447.78258,1346.44292,3698.16668
+Eastern Mediterranean,Both,50-54,Stroke,3780.90879,2070.3319,5719.78906
+Eastern Mediterranean,Both,55-59,Stroke,5222.06838,2855.56049,7914.58707
+Europe,Male,80+,"Trachea, bronchus, lung cancers",3056.50177,1528.9695,5167.2052
+Europe,Male,All,"Trachea, bronchus, lung cancers",17977.34891,9158.52157,29751.18893
+Eastern Mediterranean,Both,25-29,Ischaemic heart disease,1538.19105,1068.56819,1929.00894
+Eastern Mediterranean,Both,30-34,Ischaemic heart disease,2838.4506,1970.23011,3558.42789
+Eastern Mediterranean,Both,35-39,Ischaemic heart disease,4185.69253,2898.5672,5255.21885
+Eastern Mediterranean,Both,40-44,Ischaemic heart disease,6668.13471,4615.0984,8371.62694
+Eastern Mediterranean,Both,45-49,Ischaemic heart disease,9910.58905,6828.98481,12455.91381
+Eastern Mediterranean,Both,50-54,Ischaemic heart disease,14762.4126,10160.83352,18544.08632
+Eastern Mediterranean,Both,55-59,Ischaemic heart disease,20221.20243,13887.02151,25396.1545
+Eastern Mediterranean,Both,60-64,Ischaemic heart disease,25134.7085,17211.99934,31597.71386
+Eastern Mediterranean,Both,65-69,Ischaemic heart disease,28148.76667,19246.99984,35386.32757
+Eastern Mediterranean,Both,70-74,Ischaemic heart disease,28124.72441,19238.26442,35330.45312
+Eastern Mediterranean,Both,75-79,Ischaemic heart disease,27595.92734,18752.83259,34770.46346
+Eastern Mediterranean,Both,80+,Ischaemic heart disease,49637.34285,33600.06446,62645.16357
+Eastern Mediterranean,Both,All,Ischaemic heart disease,218766.1427,149449.176,275675.6183
+Eastern Mediterranean,Both,25-29,Stroke,620.39558,342.3805,940.8423
+Eastern Mediterranean,Both,30-34,Stroke,860.91071,473.3095,1300.97609
+Europe,Male,45-49,"Trachea, bronchus, lung cancers",443.53149,232.3826,717.16961
+Europe,Male,50-54,"Trachea, bronchus, lung cancers",987.5195,513.03981,1603.95009
+Europe,Male,55-59,"Trachea, bronchus, lung cancers",1958.23716,1007.13183,3198.53814
+Europe,Male,60-64,"Trachea, bronchus, lung cancers",2884.07337,1477.63307,4733.93072
+Europe,Male,65-69,"Trachea, bronchus, lung cancers",3268.65259,1670.60463,5381.11842
+Europe,Male,70-74,"Trachea, bronchus, lung cancers",2945.75079,1495.75818,4910.53909
+Eastern Mediterranean,Both,60-64,Stroke,7159.62005,3908.39802,10812.00629
+Eastern Mediterranean,Both,30-34,Lower respiratory infections,588.93091,433.40092,763.41548
+Eastern Mediterranean,Both,35-39,Lower respiratory infections,683.46107,505.29182,885.61914
+Eastern Mediterranean,Both,40-44,Lower respiratory infections,760.73926,562.05494,989.39217
+Eastern Mediterranean,Both,45-49,Lower respiratory infections,867.42536,641.70436,1127.18138
+Eastern Mediterranean,Both,50-54,Lower respiratory infections,1130.36562,826.78282,1470.68467
+Eastern Mediterranean,Both,55-59,Lower respiratory infections,1516.11467,1097.68717,1980.81704
+Eastern Mediterranean,Both,65-69,Stroke,8548.44721,4667.72642,12910.48576
+Eastern Mediterranean,Both,70-74,Stroke,9641.63729,5256.33894,14577.80412
+Eastern Mediterranean,Both,75-79,Stroke,10152.93344,5526.85878,15382.60452
+Eastern Mediterranean,Both,80+,Stroke,15860.07744,8555.78342,23747.93666
+Eastern Mediterranean,Both,All,Stroke,67202.69482,36705.05394,101746.2624
+Eastern Mediterranean,Both,25-29,Chronic obstructive pulmonary disease,109.56423,47.1201,195.06004
+Eastern Mediterranean,Both,30-34,Chronic obstructive pulmonary disease,167.22258,71.69128,296.1787
+Eastern Mediterranean,Both,35-39,Chronic obstructive pulmonary disease,224.17174,96.34267,397.30323
+Eastern Mediterranean,Both,40-44,Chronic obstructive pulmonary disease,348.09866,147.34703,619.02203
+Eastern Mediterranean,Both,45-49,Chronic obstructive pulmonary disease,583.24992,248.0701,1035.12714
+Eastern Mediterranean,Both,50-54,Chronic obstructive pulmonary disease,1136.24774,484.10709,2037.51578
+Eastern Mediterranean,Both,55-59,Chronic obstructive pulmonary disease,1880.30112,800.89633,3376.23328
+Eastern Mediterranean,Both,60-64,Chronic obstructive pulmonary disease,3170.08201,1346.52682,5690.65882
+Eastern Mediterranean,Both,65-69,Chronic obstructive pulmonary disease,3990.13686,1694.07097,7170.07271
+Eastern Mediterranean,Both,70-74,Chronic obstructive pulmonary disease,5182.55049,2184.15545,9276.41479
+Eastern Mediterranean,Both,75-79,Chronic obstructive pulmonary disease,5386.32215,2257.73302,9624.62013
+Eastern Mediterranean,Both,80+,Chronic obstructive pulmonary disease,9205.51612,3831.39432,16485.17147
+Eastern Mediterranean,Both,All,Chronic obstructive pulmonary disease,31383.46363,13202.92032,56247.76099
+Eastern Mediterranean,Both,0-4,Lower respiratory infections,23753.20188,16977.86463,31130.76117
+Eastern Mediterranean,Both,5-9,Lower respiratory infections,1304.3528,925.3008,1717.39878
+Eastern Mediterranean,Both,10-14,Lower respiratory infections,734.85732,516.84648,963.60747
+Eastern Mediterranean,Both,15-19,Lower respiratory infections,480.02549,348.56394,620.48814
+Eastern Mediterranean,Both,20-24,Lower respiratory infections,466.79358,339.65692,605.29372
+Eastern Mediterranean,Both,25-29,Lower respiratory infections,519.33777,379.4543,675.20154
+Eastern Mediterranean,Both,60-64,Lower respiratory infections,2219.54181,1604.2219,2901.84763
+Eastern Mediterranean,Female,50-54,Ischaemic heart disease,4745.18327,3270.92777,5979.61769
+Eastern Mediterranean,Female,55-59,Ischaemic heart disease,6888.13439,4742.11544,8671.97909
+Eastern Mediterranean,Female,60-64,Ischaemic heart disease,9274.3772,6355.12114,11658.81641
+Eastern Mediterranean,Female,65-69,Ischaemic heart disease,11530.05768,7892.80158,14494.51079
+Eastern Mediterranean,Female,70-74,Ischaemic heart disease,12408.42659,8496.94513,15592.74742
+Eastern Mediterranean,Female,75-79,Ischaemic heart disease,12969.52405,8803.79869,16343.8743
+Eastern Mediterranean,Both,65-69,Lower respiratory infections,2492.86133,1802.02521,3261.31656
+Eastern Mediterranean,Both,70-74,Lower respiratory infections,3006.17743,2179.87712,3937.58485
+Eastern Mediterranean,Both,75-79,Lower respiratory infections,3137.30372,2264.75657,4121.51477
+Eastern Mediterranean,Both,80+,Lower respiratory infections,6291.42897,4501.52847,8283.22061
+Eastern Mediterranean,Both,All,Lower respiratory infections,49952.919,36142.1777,65594.25671
+Eastern Mediterranean,Both,25-29,"Trachea, bronchus, lung cancers",34.20218,21.63588,49.60289
+Eastern Mediterranean,Both,30-34,"Trachea, bronchus, lung cancers",55.53081,34.93522,80.14397
+Eastern Mediterranean,Both,35-39,"Trachea, bronchus, lung cancers",69.47422,44.40005,100.3049
+Eastern Mediterranean,Both,40-44,"Trachea, bronchus, lung cancers",191.93303,120.75172,279.01457
+Eastern Mediterranean,Both,45-49,"Trachea, bronchus, lung cancers",390.59587,244.91019,570.90035
+Eastern Mediterranean,Both,50-54,"Trachea, bronchus, lung cancers",643.18097,402.16164,941.65812
+Eastern Mediterranean,Both,55-59,"Trachea, bronchus, lung cancers",898.73845,562.90011,1314.48619
+Eastern Mediterranean,Both,60-64,"Trachea, bronchus, lung cancers",1018.28588,638.04282,1490.90485
+Eastern Mediterranean,Both,65-69,"Trachea, bronchus, lung cancers",970.87807,609.53891,1413.90573
+Eastern Mediterranean,Both,70-74,"Trachea, bronchus, lung cancers",789.26542,497.42313,1146.08573
+Eastern Mediterranean,Both,75-79,"Trachea, bronchus, lung cancers",574.03745,358.1235,836.44319
+Eastern Mediterranean,Both,80+,"Trachea, bronchus, lung cancers",614.684,381.15334,900.67536
+Eastern Mediterranean,Both,All,"Trachea, bronchus, lung cancers",6250.80633,3927.13738,9118.98228
+Eastern Mediterranean,Female,25-29,Ischaemic heart disease,484.32552,335.50341,606.88054
+Eastern Mediterranean,Female,30-34,Ischaemic heart disease,909.65872,630.38148,1140.81229
+Eastern Mediterranean,Female,35-39,Ischaemic heart disease,1375.31097,950.82743,1725.52524
+Eastern Mediterranean,Female,40-44,Ischaemic heart disease,2111.36478,1457.06296,2651.89245
+Eastern Mediterranean,Female,45-49,Ischaemic heart disease,3173.97127,2188.41073,4000.52669
+Eastern Mediterranean,Female,80+,Ischaemic heart disease,26002.24305,17565.60877,32867.41089
+Eastern Mediterranean,Female,All,Ischaemic heart disease,91872.57747,62688.72862,115585.7813
+Eastern Mediterranean,Female,25-29,Stroke,243.62488,134.34963,369.1571
+Eastern Mediterranean,Female,30-34,Stroke,388.07632,213.14249,586.96148
+Eastern Mediterranean,Female,35-39,Stroke,533.17439,292.33125,807.05819
+Eastern Mediterranean,Female,40-44,Stroke,849.78041,467.08389,1285.64534
+GLOBAL,Both,70-74,Ischaemic heart disease,221699.7578,146750.2759,281969.566
+GLOBAL,Both,75-79,Ischaemic heart disease,240290.4076,158494.9054,305834.0269
+Eastern Mediterranean,Female,45-49,Stroke,1185.64726,651.74482,1796.63332
+Eastern Mediterranean,Female,50-54,Stroke,1805.38874,990.81185,2738.743
+Eastern Mediterranean,Female,55-59,Stroke,2571.82075,1406.97922,3911.67421
+Eastern Mediterranean,Female,60-64,Stroke,3528.56762,1928.58922,5321.62332
+Eastern Mediterranean,Female,65-69,Stroke,4252.41643,2323.76992,6412.96032
+Eastern Mediterranean,Female,70-74,Stroke,5089.10883,2780.81836,7677.82801
+Eastern Mediterranean,Female,75-79,Stroke,5448.41431,2973.0075,8255.88975
+Eastern Mediterranean,Female,80+,Stroke,9098.03966,4915.32103,13590.95051
+Eastern Mediterranean,Female,All,Stroke,34994.05959,19104.7128,53025.29174
+Eastern Mediterranean,Female,25-29,Chronic obstructive pulmonary disease,37.41906,15.7241,66.65716
+Eastern Mediterranean,Female,30-34,Chronic obstructive pulmonary disease,63.06948,26.57606,112.2257
+Eastern Mediterranean,Female,35-39,Chronic obstructive pulmonary disease,85.31462,36.58639,151.0017
+Eastern Mediterranean,Female,40-44,Chronic obstructive pulmonary disease,103.20951,43.31497,182.16993
+Eastern Mediterranean,Female,45-49,Chronic obstructive pulmonary disease,175.62559,73.99928,311.41746
+GLOBAL,Both,45-49,Ischaemic heart disease,57708.59965,38776.61144,72717.70192
+GLOBAL,Both,50-54,Ischaemic heart disease,91014.19385,61027.14534,114925.1766
+GLOBAL,Both,55-59,Ischaemic heart disease,130047.1523,86849.51311,164517.7967
+GLOBAL,Both,60-64,Ischaemic heart disease,168477.5626,111949.6671,213843.9721
+GLOBAL,Both,65-69,Ischaemic heart disease,210824.276,139872.08,267823.3013
+GLOBAL,Both,25-29,Ischaemic heart disease,6396.08525,4338.76428,8068.25108
+GLOBAL,Both,30-34,Ischaemic heart disease,12960.02097,8777.59416,16334.76435
+GLOBAL,Both,35-39,Ischaemic heart disease,21663.62295,14632.60385,27261.30581
+GLOBAL,Both,40-44,Ischaemic heart disease,35178.53647,23712.16736,44275.34452
+GLOBAL,Both,25-29,Chronic obstructive pulmonary disease,489.02397,195.83322,900.82817
+GLOBAL,Both,75-79,Chronic obstructive pulmonary disease,94604.91392,38168.19363,174263.4702
+GLOBAL,Both,80+,Chronic obstructive pulmonary disease,244845.0894,97057.3039,458477.5979
+GLOBAL,Both,All,Chronic obstructive pulmonary disease,572105.4177,229595.4022,1060262.396
+GLOBAL,Both,0-4,Lower respiratory infections,146134.1578,102832.1523,192085.1431
+GLOBAL,Both,30-34,Chronic obstructive pulmonary disease,831.48266,335.00482,1524.96313
+GLOBAL,Both,35-39,Chronic obstructive pulmonary disease,1375.81943,557.29511,2518.78708
+GLOBAL,Both,40-44,Chronic obstructive pulmonary disease,2537.17244,1030.88157,4629.20766
+GLOBAL,Both,45-49,Chronic obstructive pulmonary disease,5378.01421,2192.72604,9780.10293
+GLOBAL,Both,80+,Ischaemic heart disease,728031.44,470166.7756,938501.3765
+GLOBAL,Both,All,Ischaemic heart disease,1924291.655,1268308.136,2452725.023
+GLOBAL,Both,25-29,Stroke,2663.31628,1405.8027,3983.14493
+GLOBAL,Both,30-34,Stroke,4672.09748,2477.5171,6995.46149
+GLOBAL,Both,35-39,Stroke,7712.21855,4105.77042,11497.87581
+GLOBAL,Both,40-44,Stroke,13345.81622,7099.40396,19885.77889
+GLOBAL,Both,45-49,Stroke,22671.37324,12103.54338,33800.1209
+GLOBAL,Both,50-54,Stroke,39780.31597,21256.46591,59707.13471
+GLOBAL,Both,55-59,Stroke,56336.0607,30081.07824,84362.33566
+GLOBAL,Both,60-64,Stroke,80887.89798,43110.24668,120905.9076
+GLOBAL,Both,65-69,Stroke,112074.8005,59668.82812,167382.3311
+GLOBAL,Both,70-74,Stroke,123745.7106,65546.32226,184787.2427
+GLOBAL,Both,75-79,Stroke,134625.2041,70476.50213,200463.1904
+GLOBAL,Both,80+,Stroke,326424.308,170238.4865,490720.5744
+GLOBAL,Both,All,Stroke,924939.1197,484605.4133,1372134.787
+GLOBAL,Both,50-54,Chronic obstructive pulmonary disease,12322.79382,5030.3485,22374.1732
+GLOBAL,Both,55-59,Chronic obstructive pulmonary disease,22199.16033,9026.10608,40507.72371
+GLOBAL,Both,60-64,Chronic obstructive pulmonary disease,40626.4946,16498.45817,74201.24898
+GLOBAL,Both,65-69,Chronic obstructive pulmonary disease,63425.66874,25759.01929,115857.4958
+GLOBAL,Both,70-74,Chronic obstructive pulmonary disease,83469.7842,33744.07478,153158.6923
+GLOBAL,Both,5-9,Lower respiratory infections,9211.3478,6285.82408,12292.54411
+GLOBAL,Both,65-69,"Trachea, bronchus, lung cancers",33314.75964,19864.6704,49750.46951
+GLOBAL,Both,70-74,"Trachea, bronchus, lung cancers",30379.28104,18018.5431,45647.68836
+GLOBAL,Both,75-79,"Trachea, bronchus, lung cancers",24789.72605,14671.28358,37324.82572
+GLOBAL,Both,80+,"Trachea, bronchus, lung cancers",34676.90894,20312.28051,52742.83482
+GLOBAL,Both,10-14,Lower respiratory infections,5328.46661,3606.906,7130.88598
+GLOBAL,Both,15-19,Lower respiratory infections,2833.51337,1917.74583,3849.77321
+GLOBAL,Female,25-29,Ischaemic heart disease,1922.11365,1306.228,2425.17621
+GLOBAL,Female,30-34,Ischaemic heart disease,3452.17438,2339.14681,4353.25993
+GLOBAL,Female,35-39,Ischaemic heart disease,5726.20703,3876.09039,7214.2238
+GLOBAL,Female,40-44,Ischaemic heart disease,9737.12856,6588.65149,12269.55316
+GLOBAL,Female,45-49,Ischaemic heart disease,15940.74807,10743.68952,20046.48568
+GLOBAL,Female,50-54,Ischaemic heart disease,27383.87227,18439.96547,34477.0334
+GLOBAL,Female,55-59,Ischaemic heart disease,39661.5321,26586.41909,50078.21319
+GLOBAL,Female,60-64,Ischaemic heart disease,57371.4563,38315.31228,72553.21892
+GLOBAL,Female,65-69,Ischaemic heart disease,80148.42864,53376.44082,101378.0553
+GLOBAL,Female,70-74,Ischaemic heart disease,94089.40851,62395.16256,119633.0975
+GLOBAL,Female,75-79,Ischaemic heart disease,113206.9347,74602.33522,144285.4271
+GLOBAL,Female,80+,Ischaemic heart disease,412988.4395,265454.7435,534442.3965
+GLOBAL,Female,All,Ischaemic heart disease,861628.4437,565453.3696,1102688.043
+GLOBAL,Female,25-29,Stroke,942.8115,496.88882,1410.16904
+GLOBAL,Female,30-34,Stroke,1575.96669,833.64892,2343.34272
+GLOBAL,Female,35-39,Stroke,2760.65741,1465.66738,4122.83064
+GLOBAL,Female,40-44,Stroke,4861.64425,2584.89658,7227.40677
+GLOBAL,Female,45-49,Stroke,8589.69353,4585.06501,12784.10031
+GLOBAL,Female,50-54,Stroke,15861.27998,8466.63975,23845.29559
+GLOBAL,Female,55-59,Stroke,21945.19023,11717.28646,32941.5656
+GLOBAL,Female,60-64,Stroke,32480.62964,17326.3603,48815.91146
+GLOBAL,Female,65-69,Stroke,46941.45267,24975.23274,70281.16675
+GLOBAL,Female,70-74,Stroke,55940.28075,29685.31011,83636.7775
+GLOBAL,Female,75-79,Stroke,65225.56575,34186.07568,96809.60828
+GLOBAL,Female,80+,Stroke,183951.3069,95200.7318,274396.5395
+GLOBAL,Female,All,Stroke,441076.4793,231486.7861,657842.4627
+GLOBAL,Female,25-29,Chronic obstructive pulmonary disease,186.48543,74.21481,344.57761
+GLOBAL,Both,20-24,Lower respiratory infections,3118.88167,2096.86828,4261.17112
+GLOBAL,Both,25-29,Lower respiratory infections,3878.1565,2601.10247,5333.71402
+GLOBAL,Both,30-34,Lower respiratory infections,4602.74311,3048.56571,6402.5324
+GLOBAL,Both,35-39,Lower respiratory infections,5913.48365,3892.65936,8237.4207
+GLOBAL,Both,40-44,Lower respiratory infections,6994.98473,4626.40559,9778.23983
+GLOBAL,Both,45-49,Lower respiratory infections,8998.54569,5973.70838,12510.84865
+GLOBAL,Both,50-54,Lower respiratory infections,13009.6462,8780.79698,17889.5421
+GLOBAL,Both,55-59,Lower respiratory infections,17993.03834,12180.22758,24704.53943
+GLOBAL,Both,60-64,Lower respiratory infections,26648.84215,18117.83231,36375.71614
+GLOBAL,Both,65-69,Lower respiratory infections,35540.08484,24311.35253,48266.53811
+GLOBAL,Both,70-74,Lower respiratory infections,43409.17266,29508.19011,59226.40019
+GLOBAL,Both,75-79,Lower respiratory infections,48336.91819,32122.14119,66551.03003
+GLOBAL,Both,80+,Lower respiratory infections,158004.7431,96654.94446,226634.181
+GLOBAL,Both,All,Lower respiratory infections,539956.7264,362269.5576,741192.1309
+GLOBAL,Both,25-29,"Trachea, bronchus, lung cancers",332.96433,204.25294,487.25345
+GLOBAL,Both,30-34,"Trachea, bronchus, lung cancers",779.95873,477.06544,1141.79204
+GLOBAL,Both,35-39,"Trachea, bronchus, lung cancers",1380.7185,839.74463,2037.13036
+GLOBAL,Both,40-44,"Trachea, bronchus, lung cancers",3037.01106,1842.01051,4496.58915
+GLOBAL,Both,45-49,"Trachea, bronchus, lung cancers",6598.5586,3987.63297,9775.55828
+GLOBAL,Both,50-54,"Trachea, bronchus, lung cancers",12538.20011,7558.36484,18617.94678
+GLOBAL,Both,55-59,"Trachea, bronchus, lung cancers",18891.65287,11318.79289,28190.73816
+GLOBAL,Both,60-64,"Trachea, bronchus, lung cancers",25939.99118,15479.16604,38781.64057
+GLOBAL,Both,All,"Trachea, bronchus, lung cancers",192659.731,114579.7341,288729.7753
+GLOBAL,Female,55-59,Lower respiratory infections,7003.83012,4797.33114,9507.97166
+GLOBAL,Female,60-64,Lower respiratory infections,10931.04402,7565.01319,14716.19337
+GLOBAL,Female,65-69,Lower respiratory infections,15562.21472,10789.67884,20843.66463
+GLOBAL,Female,70-74,Lower respiratory infections,20074.02556,13809.3188,27026.28035
+GLOBAL,Female,75-79,Lower respiratory infections,22643.73041,15175.35124,31073.81642
+GLOBAL,Female,80+,Lower respiratory infections,84722.32168,50956.693,122239.4907
+GLOBAL,Female,30-34,Chronic obstructive pulmonary disease,307.60723,124.1681,564.37922
+GLOBAL,Female,35-39,Chronic obstructive pulmonary disease,505.51582,205.14674,926.52241
+GLOBAL,Female,40-44,Chronic obstructive pulmonary disease,852.31529,347.58078,1558.87665
+GLOBAL,Female,45-49,Chronic obstructive pulmonary disease,1808.44968,736.4021,3300.41362
+GLOBAL,Female,50-54,Chronic obstructive pulmonary disease,4440.90281,1817.2096,8078.14916
+GLOBAL,Female,55-59,Chronic obstructive pulmonary disease,7550.67651,3062.5864,13846.49036
+GLOBAL,Female,55-59,"Trachea, bronchus, lung cancers",5211.81233,3097.42388,7826.1229
+GLOBAL,Female,60-64,"Trachea, bronchus, lung cancers",7156.02355,4244.31362,10750.3065
+GLOBAL,Female,65-69,"Trachea, bronchus, lung cancers",9344.87621,5541.56477,14019.05706
+GLOBAL,Female,70-74,"Trachea, bronchus, lung cancers",8979.03346,5298.59368,13560.52027
+GLOBAL,Female,75-79,"Trachea, bronchus, lung cancers",7814.24433,4605.6398,11817.96512
+GLOBAL,Female,80+,"Trachea, bronchus, lung cancers",12881.82438,7524.43194,19655.66965
+GLOBAL,Female,All,"Trachea, bronchus, lung cancers",59279.10167,35074.49134,89268.28858
+GLOBAL,Male,25-29,Ischaemic heart disease,4473.9716,3032.53629,5640.08492
+GLOBAL,Male,30-34,Ischaemic heart disease,9507.84659,6435.67952,11979.97887
+GLOBAL,Male,35-39,Ischaemic heart disease,15937.41592,10750.7467,20052.78829
+GLOBAL,Male,40-44,Ischaemic heart disease,25441.40791,17118.2243,32017.18161
+GLOBAL,Male,45-49,Ischaemic heart disease,41767.85158,28032.92193,52671.55489
+GLOBAL,Male,50-54,Ischaemic heart disease,63630.32158,42587.17987,80456.62126
+GLOBAL,Male,55-59,Ischaemic heart disease,90385.62019,60251.75842,114333.3442
+GLOBAL,Male,60-64,Ischaemic heart disease,111106.1063,73662.07637,141137.3208
+GLOBAL,Male,65-69,Ischaemic heart disease,130675.8474,86541.66242,166026.6144
+GLOBAL,Male,70-74,Ischaemic heart disease,127610.3493,84298.01489,162268.1904
+GLOBAL,Male,75-79,Ischaemic heart disease,127083.4729,83858.04637,161620.5852
+GLOBAL,Male,80+,Ischaemic heart disease,315043.0005,205614.7742,404327.0182
+GLOBAL,Male,All,Ischaemic heart disease,1062663.212,701863.4336,1349965.804
+GLOBAL,Male,25-29,Stroke,1720.50478,908.91388,2566.85655
+GLOBAL,Female,60-64,Chronic obstructive pulmonary disease,14494.63887,5905.30255,26440.17829
+GLOBAL,Female,65-69,Chronic obstructive pulmonary disease,23053.78811,9394.78317,42022.01982
+GLOBAL,Female,70-74,Chronic obstructive pulmonary disease,32708.61305,13289.93826,59836.45076
+GLOBAL,Female,75-79,Chronic obstructive pulmonary disease,38462.04882,15561.16426,70768.94416
+GLOBAL,Female,80+,Chronic obstructive pulmonary disease,115882.1643,45960.52461,217215.7283
+GLOBAL,Female,All,Chronic obstructive pulmonary disease,240253.2059,96480.91394,445844.7108
+GLOBAL,Female,0-4,Lower respiratory infections,63949.21893,45169.39331,84009.79141
+GLOBAL,Female,5-9,Lower respiratory infections,4894.22668,3341.2241,6520.9156
+GLOBAL,Female,10-14,Lower respiratory infections,2567.19409,1744.60056,3435.30808
+GLOBAL,Female,15-19,Lower respiratory infections,1273.853,864.3218,1726.12897
+GLOBAL,Female,20-24,Lower respiratory infections,1337.55651,909.10747,1814.73485
+GLOBAL,Female,25-29,Lower respiratory infections,1668.31313,1121.64744,2284.73798
+GLOBAL,Female,30-34,Lower respiratory infections,1863.85779,1236.31929,2592.53762
+GLOBAL,Female,35-39,Lower respiratory infections,2385.3799,1584.48657,3295.17119
+GLOBAL,Female,40-44,Lower respiratory infections,2705.63522,1814.51407,3726.11748
+GLOBAL,Female,45-49,Lower respiratory infections,3170.07436,2128.98282,4362.0276
+GLOBAL,Female,50-54,Lower respiratory infections,5284.36035,3613.78059,7159.15225
+GLOBAL,Female,All,Lower respiratory infections,252036.8365,168815.5611,346977.1053
+GLOBAL,Female,25-29,"Trachea, bronchus, lung cancers",125.41059,76.72922,183.53303
+GLOBAL,Female,30-34,"Trachea, bronchus, lung cancers",293.61475,179.19762,430.74884
+GLOBAL,Female,35-39,"Trachea, bronchus, lung cancers",522.69089,317.51269,770.04988
+GLOBAL,Female,40-44,"Trachea, bronchus, lung cancers",1109.0672,672.44871,1640.03815
+GLOBAL,Female,45-49,"Trachea, bronchus, lung cancers",2075.95142,1251.79441,3080.04378
+GLOBAL,Female,50-54,"Trachea, bronchus, lung cancers",3764.55256,2261.95171,5597.8335
+GLOBAL,Male,55-59,Chronic obstructive pulmonary disease,14648.48382,5963.51969,26661.23335
+GLOBAL,Male,0-4,Lower respiratory infections,82184.9389,57662.75896,108076.9127
+GLOBAL,Male,5-9,Lower respiratory infections,4317.12112,2952.14935,5756.01936
+GLOBAL,Male,10-14,Lower respiratory infections,2761.27252,1863.27033,3702.63296
+GLOBAL,Male,15-19,Lower respiratory infections,1559.66037,1053.16008,2121.61714
+GLOBAL,Male,60-64,Chronic obstructive pulmonary disease,26131.85572,10593.15562,47761.07069
+GLOBAL,Male,65-69,Chronic obstructive pulmonary disease,40371.88064,16364.23612,73835.47601
+GLOBAL,Male,70-74,Chronic obstructive pulmonary disease,50761.17116,20454.13652,93320.30149
+GLOBAL,Male,75-79,Chronic obstructive pulmonary disease,56142.86511,22607.02937,103494.5261
+GLOBAL,Male,80+,Chronic obstructive pulmonary disease,128962.9251,51096.77929,241261.8696
+GLOBAL,Male,All,Chronic obstructive pulmonary disease,331852.2118,133114.4883,614417.6851
+GLOBAL,Male,30-34,Stroke,3096.13079,1643.86818,4642.35601
+GLOBAL,Male,35-39,Stroke,4951.56115,2640.01467,7416.73662
+GLOBAL,Male,40-44,Stroke,8484.17197,4514.50738,12657.90099
+GLOBAL,Male,45-49,Stroke,14081.67971,7517.81624,21034.38315
+GLOBAL,Male,50-54,Stroke,23919.03598,12782.81465,35846.81179
+GLOBAL,Male,55-59,Stroke,34390.87047,18363.79178,51418.87666
+GLOBAL,Male,80+,Lower respiratory infections,73282.42142,45467.18383,104648.7238
+GLOBAL,Male,All,Lower respiratory infections,287919.89,193832.7294,394215.0256
+GLOBAL,Male,25-29,"Trachea, bronchus, lung cancers",207.55374,127.52372,303.72041
+GLOBAL,Male,30-34,"Trachea, bronchus, lung cancers",486.34399,297.8574,711.03749
+GLOBAL,Male,35-39,"Trachea, bronchus, lung cancers",858.02761,521.63969,1266.22961
+GLOBAL,Male,40-44,"Trachea, bronchus, lung cancers",1927.94386,1167.85469,2856.53289
+GLOBAL,Male,45-49,"Trachea, bronchus, lung cancers",4522.60718,2733.17599,6693.60618
+GLOBAL,Male,50-54,"Trachea, bronchus, lung cancers",8773.64755,5296.41313,13019.30581
+GLOBAL,Male,55-59,"Trachea, bronchus, lung cancers",13679.84054,8221.36901,20364.61525
+GLOBAL,Male,60-64,"Trachea, bronchus, lung cancers",18783.96762,11234.85242,28047.12244
+GLOBAL,Male,65-69,"Trachea, bronchus, lung cancers",23969.88343,14323.10563,35763.38242
+GLOBAL,Male,70-74,"Trachea, bronchus, lung cancers",21400.24757,12719.9458,32097.59235
+GLOBAL,Male,75-79,"Trachea, bronchus, lung cancers",16975.48172,10065.64378,25506.86059
+GLOBAL,Male,80+,"Trachea, bronchus, lung cancers",21795.08456,12787.84857,33095.43923
+GLOBAL,Male,All,"Trachea, bronchus, lung cancers",133380.6294,79505.24272,199541.7393
+GLOBAL,Male,60-64,Stroke,48407.26834,25783.88638,72158.71558
+GLOBAL,Male,65-69,Stroke,65133.34786,34693.59538,97101.16437
+GLOBAL,Male,70-74,Stroke,67805.42989,35861.01215,101150.4652
+GLOBAL,Male,75-79,Stroke,69399.63835,36293.99801,103645.4565
+GLOBAL,Male,80+,Stroke,142473.0011,74575.93736,211597.6882
+GLOBAL,Male,All,Stroke,483862.6404,253136.379,722077.9351
+GLOBAL,Male,25-29,Chronic obstructive pulmonary disease,302.53854,121.03339,555.88281
+GLOBAL,Male,30-34,Chronic obstructive pulmonary disease,523.87542,210.32388,960.58391
+GLOBAL,Male,35-39,Chronic obstructive pulmonary disease,870.30361,352.07717,1592.26467
+GLOBAL,Male,40-44,Chronic obstructive pulmonary disease,1684.85715,685.34533,3070.33101
+GLOBAL,Male,45-49,Chronic obstructive pulmonary disease,3569.56453,1456.32394,6479.68931
+GLOBAL,Male,50-54,Chronic obstructive pulmonary disease,7881.89101,3213.1389,14296.02404
+GLOBAL,Male,20-24,Lower respiratory infections,1781.32516,1193.95858,2446.16511
+GLOBAL,Male,25-29,Lower respiratory infections,2209.84337,1471.96798,3048.68032
+GLOBAL,Male,30-34,Lower respiratory infections,2738.88531,1803.13804,3808.31388
+GLOBAL,Male,35-39,Lower respiratory infections,3528.10375,2298.6896,4948.1863
+GLOBAL,Male,40-44,Lower respiratory infections,4289.3495,2795.50026,6041.4585
+GLOBAL,Male,45-49,Lower respiratory infections,5828.47133,3813.69387,8155.27564
+GLOBAL,Male,50-54,Lower respiratory infections,7725.28585,5098.24901,10729.64224
+GLOBAL,Male,55-59,Lower respiratory infections,10989.20823,7314.04241,15195.80897
+GLOBAL,Male,60-64,Lower respiratory infections,15717.79813,10573.63863,21636.11846
+GLOBAL,Male,65-69,Lower respiratory infections,19977.87011,13426.27423,27419.90479
+GLOBAL,Male,70-74,Lower respiratory infections,23335.1471,15580.98851,32066.9427
+GLOBAL,Male,75-79,Lower respiratory infections,25693.18777,17020.58234,35564.17568
+Eastern Mediterranean,Female,50-54,Chronic obstructive pulmonary disease,327.61554,139.18881,585.91458
+Eastern Mediterranean,Female,55-59,Chronic obstructive pulmonary disease,562.67161,240.72586,1007.58841
+Eastern Mediterranean,Female,60-64,Chronic obstructive pulmonary disease,911.79665,389.59269,1635.39646
+Eastern Mediterranean,Female,65-69,Chronic obstructive pulmonary disease,1186.06888,506.35281,2128.13176
+Eastern Mediterranean,Female,70-74,Chronic obstructive pulmonary disease,1645.83574,698.84347,2947.58665
+Eastern Mediterranean,Female,75-79,Chronic obstructive pulmonary disease,1696.80687,714.12962,3021.70409
+Eastern Mediterranean,Female,80+,Chronic obstructive pulmonary disease,3199.87633,1337.48894,5678.5223
+Eastern Mediterranean,Female,All,Chronic obstructive pulmonary disease,9995.3099,4232.08499,17779.58917
+Eastern Mediterranean,Female,0-4,Lower respiratory infections,10351.81971,7399.23696,13567.94919
+Eastern Mediterranean,Female,5-9,Lower respiratory infections,643.02557,450.57526,849.32348
+Eastern Mediterranean,Female,10-14,Lower respiratory infections,316.65385,219.95275,417.7704
+Eastern Mediterranean,Female,25-29,"Trachea, bronchus, lung cancers",13.86171,8.77944,20.02988
+Eastern Mediterranean,Female,75-79,"Trachea, bronchus, lung cancers",138.38241,87.13218,200.8772
+Eastern Mediterranean,Female,80+,"Trachea, bronchus, lung cancers",171.59151,106.80844,250.94924
+Eastern Mediterranean,Female,All,"Trachea, bronchus, lung cancers",1463.47099,920.82645,2118.68827
+Eastern Mediterranean,Male,25-29,Ischaemic heart disease,1053.86553,732.10531,1320.93671
+Eastern Mediterranean,Male,30-34,Ischaemic heart disease,1928.79188,1339.80922,2417.68695
+Eastern Mediterranean,Female,30-34,"Trachea, bronchus, lung cancers",21.66318,13.68613,31.15936
+Eastern Mediterranean,Female,35-39,"Trachea, bronchus, lung cancers",32.22376,20.37294,46.71766
+Eastern Mediterranean,Female,40-44,"Trachea, bronchus, lung cancers",57.38155,36.19161,83.00947
+Eastern Mediterranean,Female,45-49,"Trachea, bronchus, lung cancers",96.78921,61.2296,140.64327
+Eastern Mediterranean,Female,50-54,"Trachea, bronchus, lung cancers",145.46461,91.60182,211.58408
+Eastern Mediterranean,Female,55-59,"Trachea, bronchus, lung cancers",181.31124,114.09953,263.10837
+Eastern Mediterranean,Female,60-64,"Trachea, bronchus, lung cancers",208.38678,131.29378,301.81131
+Eastern Mediterranean,Female,65-69,"Trachea, bronchus, lung cancers",211.60883,133.42294,306.31756
+Eastern Mediterranean,Female,70-74,"Trachea, bronchus, lung cancers",184.8062,117.39915,266.98868
+Eastern Mediterranean,Female,15-19,Lower respiratory infections,164.34301,117.76719,213.79698
+Eastern Mediterranean,Female,20-24,Lower respiratory infections,169.71926,121.83238,221.35855
+Eastern Mediterranean,Female,25-29,Lower respiratory infections,194.39537,140.73484,254.22196
+Eastern Mediterranean,Female,30-34,Lower respiratory infections,231.71078,168.34455,301.58234
+Eastern Mediterranean,Male,35-39,Stroke,630.29439,347.46472,953.9357
+Eastern Mediterranean,Male,40-44,Stroke,894.66416,492.16919,1352.4952
+Eastern Mediterranean,Male,45-49,Stroke,1262.13532,694.33263,1908.73337
+Eastern Mediterranean,Male,50-54,Stroke,1975.52005,1083.95394,2987.84064
+Eastern Mediterranean,Male,55-59,Stroke,2650.24763,1451.15047,4011.11064
+Eastern Mediterranean,Male,60-64,Stroke,3631.05244,1981.43812,5490.99791
+Eastern Mediterranean,Male,65-69,Stroke,4296.03078,2344.01952,6498.43486
+Eastern Mediterranean,Male,70-74,Stroke,4552.52846,2481.67768,6885.57264
+Eastern Mediterranean,Male,75-79,Stroke,4704.51913,2552.7645,7106.47928
+Eastern Mediterranean,Male,80+,Stroke,6762.03778,3669.2914,10153.2651
+Eastern Mediterranean,Male,All,Stroke,32208.63522,17600.34113,48782.52493
+Eastern Mediterranean,Male,25-29,Chronic obstructive pulmonary disease,72.14518,30.83187,128.09663
+Eastern Mediterranean,Male,30-34,Chronic obstructive pulmonary disease,104.15309,44.25895,183.95299
+Eastern Mediterranean,Male,35-39,Chronic obstructive pulmonary disease,138.85713,59.29694,247.33542
+Eastern Mediterranean,Male,40-44,Chronic obstructive pulmonary disease,244.88915,104.03523,436.83603
+Eastern Mediterranean,Male,45-49,Chronic obstructive pulmonary disease,407.62433,173.37079,730.45563
+Eastern Mediterranean,Male,50-54,Chronic obstructive pulmonary disease,808.6322,343.49192,1448.40067
+Eastern Mediterranean,Male,55-59,Chronic obstructive pulmonary disease,1317.62951,560.13565,2364.06072
+Eastern Mediterranean,Female,35-39,Lower respiratory infections,262.82571,192.69321,342.02558
+Eastern Mediterranean,Female,40-44,Lower respiratory infections,267.38619,194.83242,349.91443
+Eastern Mediterranean,Female,45-49,Lower respiratory infections,300.21625,220.46677,391.6531
+Eastern Mediterranean,Female,50-54,Lower respiratory infections,392.93592,282.35225,512.51305
+Eastern Mediterranean,Female,55-59,Lower respiratory infections,511.84857,368.26881,668.07254
+Eastern Mediterranean,Female,60-64,Lower respiratory infections,763.64806,548.45025,995.42472
+Eastern Mediterranean,Female,65-69,Lower respiratory infections,930.2642,670.43251,1210.32447
+Eastern Mediterranean,Female,70-74,Lower respiratory infections,1175.04002,849.81203,1530.47733
+Eastern Mediterranean,Female,75-79,Lower respiratory infections,1206.45936,863.07216,1583.51341
+Eastern Mediterranean,Female,80+,Lower respiratory infections,2622.73345,1846.70498,3446.27028
+Eastern Mediterranean,Female,All,Lower respiratory infections,20505.02528,14781.8974,26919.73802
+Eastern Mediterranean,Male,35-39,Ischaemic heart disease,2810.38156,1947.65575,3526.30529
+Eastern Mediterranean,Male,40-44,Ischaemic heart disease,4556.76993,3159.64692,5723.34854
+Eastern Mediterranean,Male,45-49,Ischaemic heart disease,6736.61778,4651.30673,8461.06696
+Eastern Mediterranean,Male,50-54,Ischaemic heart disease,10017.22934,6889.90575,12582.73294
+Eastern Mediterranean,Male,55-59,Ischaemic heart disease,13333.06804,9144.90607,16744.25848
+Eastern Mediterranean,Male,60-64,Ischaemic heart disease,15860.3313,10856.8782,19922.10852
+Eastern Mediterranean,Male,65-69,Ischaemic heart disease,16618.70899,11354.19826,20892.65146
+Eastern Mediterranean,Male,70-74,Ischaemic heart disease,15716.29782,10741.3193,19752.73647
+Eastern Mediterranean,Male,75-79,Ischaemic heart disease,14626.40329,9949.196,18426.58916
+Eastern Mediterranean,Male,80+,Ischaemic heart disease,23635.0998,16035.64846,29779.7991
+Eastern Mediterranean,Male,All,Ischaemic heart disease,126893.5653,86766.83127,159620.6646
+Eastern Mediterranean,Male,25-29,Stroke,376.7707,207.92811,570.11025
+Eastern Mediterranean,Male,30-34,Stroke,472.83439,260.45996,716.89203
+Eastern Mediterranean,Male,30-34,Lower respiratory infections,357.22013,264.0676,462.5142
+Eastern Mediterranean,Male,30-34,"Trachea, bronchus, lung cancers",33.86763,21.3404,49.03175
+Eastern Mediterranean,Male,35-39,"Trachea, bronchus, lung cancers",37.25047,23.72561,53.37594
+Eastern Mediterranean,Male,40-44,"Trachea, bronchus, lung cancers",134.55148,84.2573,195.97744
+Eastern Mediterranean,Male,45-49,"Trachea, bronchus, lung cancers",293.80665,184.01144,429.33467
+Eastern Mediterranean,Male,50-54,"Trachea, bronchus, lung cancers",497.71636,310.99876,728.14317
+Eastern Mediterranean,Male,55-59,"Trachea, bronchus, lung cancers",717.4272,449.14362,1047.3692
+Eastern Mediterranean,Male,35-39,Lower respiratory infections,420.63536,310.90981,544.78635
+Eastern Mediterranean,Male,40-44,Lower respiratory infections,493.35307,365.31461,641.1189
+Eastern Mediterranean,Male,45-49,Lower respiratory infections,567.20911,419.72427,736.87015
+Eastern Mediterranean,Male,50-54,Lower respiratory infections,737.4297,543.19113,959.60842
+Eastern Mediterranean,Male,55-59,Lower respiratory infections,1004.2661,730.20825,1309.85243
+Eastern Mediterranean,Male,60-64,Lower respiratory infections,1455.89375,1057.72978,1895.39423
+Eastern Mediterranean,Male,65-69,Lower respiratory infections,1562.59713,1133.34541,2043.43329
+Eastern Mediterranean,Male,70-74,Lower respiratory infections,1831.13741,1323.93232,2401.64513
+Eastern Mediterranean,Male,75-79,Lower respiratory infections,1930.84436,1402.32384,2537.71734
+Eastern Mediterranean,Male,80+,Lower respiratory infections,3668.69552,2653.43518,4828.89098
+Eastern Mediterranean,Male,All,Lower respiratory infections,29447.89372,21329.6642,38671.36263
+Eastern Mediterranean,Male,25-29,"Trachea, bronchus, lung cancers",20.34046,12.9166,29.61635
+Eastern Mediterranean,Male,60-64,Chronic obstructive pulmonary disease,2258.28536,958.32977,4055.9942
+Eastern Mediterranean,Male,65-69,Chronic obstructive pulmonary disease,2804.06798,1187.7717,5041.94659
+Eastern Mediterranean,Male,70-74,Chronic obstructive pulmonary disease,3536.71475,1488.28462,6311.72539
+Eastern Mediterranean,Male,75-79,Chronic obstructive pulmonary disease,3689.51527,1542.4448,6583.58888
+Eastern Mediterranean,Male,80+,Chronic obstructive pulmonary disease,6005.6398,2498.84961,10741.89387
+Eastern Mediterranean,Male,All,Chronic obstructive pulmonary disease,21388.15374,8987.93558,38264.54117
+Eastern Mediterranean,Male,0-4,Lower respiratory infections,13401.38217,9578.66931,17562.81198
+Western Pacific,Both,All,Ischaemic heart disease,541775.2251,363704.9179,684733.1196
+Western Pacific,Both,25-29,Stroke,656.31599,342.66272,988.65606
+Western Pacific,Both,30-34,Stroke,1514.59818,799.48572,2286.26748
+Western Pacific,Both,35-39,Stroke,2288.89199,1194.44568,3448.28448
+Western Pacific,Both,40-44,Stroke,4533.21147,2365.30577,6837.21554
+Western Pacific,Both,45-49,Stroke,8395.51557,4391.21489,12683.18432
+Western Pacific,Both,50-54,Stroke,15209.4934,8009.31038,22961.51113
+Western Pacific,Both,55-59,Stroke,20410.07048,10704.12597,30813.40062
+Western Pacific,Both,60-64,Stroke,29740.03038,15665.70774,44883.81689
+Western Pacific,Both,65-69,Stroke,48528.31037,25779.50624,73503.96424
+Western Pacific,Both,70-74,Stroke,55788.29867,29631.25554,84438.79849
+Eastern Mediterranean,Male,5-9,Lower respiratory infections,661.32723,474.6005,869.05837
+Eastern Mediterranean,Male,10-14,Lower respiratory infections,418.20347,296.82227,547.01097
+Eastern Mediterranean,Male,15-19,Lower respiratory infections,315.68249,230.97878,407.93861
+Eastern Mediterranean,Male,20-24,Lower respiratory infections,297.07432,217.84094,384.46157
+Eastern Mediterranean,Male,25-29,Lower respiratory infections,324.9424,238.47627,420.70553
+Eastern Mediterranean,Male,60-64,"Trachea, bronchus, lung cancers",809.8991,505.80739,1183.27214
+Eastern Mediterranean,Male,65-69,"Trachea, bronchus, lung cancers",759.26924,476.91839,1109.73543
+Eastern Mediterranean,Male,70-74,"Trachea, bronchus, lung cancers",604.45922,381.80963,882.24179
+Eastern Mediterranean,Male,75-79,"Trachea, bronchus, lung cancers",435.65504,272.53109,635.57478
+Eastern Mediterranean,Male,80+,"Trachea, bronchus, lung cancers",443.09248,273.62844,649.61596
+Eastern Mediterranean,Male,All,"Trachea, bronchus, lung cancers",4787.33534,2996.94358,6999.90098
+Western Pacific,Both,25-29,Ischaemic heart disease,1241.61368,835.06954,1563.28398
+Western Pacific,Both,30-34,Ischaemic heart disease,2865.24142,1928.71309,3610.38549
+Western Pacific,Both,35-39,Ischaemic heart disease,3950.30836,2652.80111,4980.99444
+Western Pacific,Both,40-44,Ischaemic heart disease,7045.39347,4735.60992,8881.79414
+Western Pacific,Both,45-49,Ischaemic heart disease,11781.82587,7921.68088,14868.83759
+Western Pacific,Both,50-54,Ischaemic heart disease,19164.67364,12883.14879,24180.63496
+Western Pacific,Both,55-59,Ischaemic heart disease,24782.3102,16647.82172,31273.38597
+Western Pacific,Both,60-64,Ischaemic heart disease,34435.61276,23125.65707,43469.80671
+Western Pacific,Both,65-69,Ischaemic heart disease,52520.33116,35303.3176,66354.71618
+Western Pacific,Both,70-74,Ischaemic heart disease,58877.25834,39617.63311,74411.48879
+Western Pacific,Both,75-79,Ischaemic heart disease,67645.51842,45552.97048,85545.24719
+Western Pacific,Both,80+,Ischaemic heart disease,257465.1378,172790.473,325468.142
+Western Pacific,Both,40-44,Chronic obstructive pulmonary disease,558.28677,221.84924,1034.57462
+Western Pacific,Both,45-49,Lower respiratory infections,1094.4654,705.89501,1507.7988
+Western Pacific,Both,50-54,Lower respiratory infections,1705.70015,1107.10522,2337.3937
+Western Pacific,Both,55-59,Lower respiratory infections,2333.91169,1498.61107,3218.63344
+Western Pacific,Both,60-64,Lower respiratory infections,3611.25923,2298.92822,5007.24539
+Western Pacific,Both,65-69,Lower respiratory infections,5780.67444,3698.21555,7988.83844
+Western Pacific,Both,70-74,Lower respiratory infections,7725.39408,4933.29874,10699.83049
+Western Pacific,Both,45-49,Chronic obstructive pulmonary disease,1236.30648,494.74932,2291.86348
+Western Pacific,Both,50-54,Chronic obstructive pulmonary disease,2747.2127,1105.71356,5072.19999
+Western Pacific,Both,55-59,Chronic obstructive pulmonary disease,4645.18583,1864.56163,8599.8296
+Western Pacific,Both,60-64,Chronic obstructive pulmonary disease,8992.85391,3612.23186,16642.59549
+Western Pacific,Both,65-69,Chronic obstructive pulmonary disease,18119.50169,7323.64233,33345.18849
+Western Pacific,Both,70-74,Chronic obstructive pulmonary disease,27082.50128,10967.89646,49690.48175
+Western Pacific,Both,75-79,Chronic obstructive pulmonary disease,34994.24336,14150.71622,64232.63978
+Western Pacific,Both,80+,Chronic obstructive pulmonary disease,117429.9389,47037.88447,217393.8614
+Western Pacific,Both,All,Chronic obstructive pulmonary disease,216324.3345,87031.43343,399284.7709
+Western Pacific,Both,0-4,Lower respiratory infections,7092.55753,4723.62649,9540.86438
+Western Pacific,Both,5-9,Lower respiratory infections,273.95084,177.85499,373.13208
+Western Pacific,Both,10-14,Lower respiratory infections,209.075,133.59306,289.23798
+Western Pacific,Both,15-19,Lower respiratory infections,260.00707,163.89276,363.73716
+Western Pacific,Both,20-24,Lower respiratory infections,327.77392,206.28846,457.91782
+Western Pacific,Both,25-29,Lower respiratory infections,421.09481,263.52622,592.12798
+Western Pacific,Both,30-34,Lower respiratory infections,552.45922,351.23799,768.22078
+Western Pacific,Both,35-39,Lower respiratory infections,572.07482,360.91649,801.26897
+Western Pacific,Both,40-44,Lower respiratory infections,727.18296,467.90211,1003.16917
+Western Pacific,Both,75-79,Stroke,61666.50129,32750.19323,93383.31591
+Western Pacific,Both,80+,Stroke,166020.2594,86648.92552,250247.4823
+Western Pacific,Both,All,Stroke,414751.4972,217615.4457,626240.8645
+Western Pacific,Both,25-29,Chronic obstructive pulmonary disease,83.13792,32.06045,155.6157
+Western Pacific,Both,30-34,Chronic obstructive pulmonary disease,184.00394,72.47982,341.56654
+Western Pacific,Both,35-39,Chronic obstructive pulmonary disease,251.16167,98.44939,467.57101
+Western Pacific,Female,60-64,Ischaemic heart disease,11089.24685,7459.3478,13988.62168
+Western Pacific,Female,65-69,Ischaemic heart disease,19322.07431,13009.42522,24389.01013
+Western Pacific,Female,70-74,Ischaemic heart disease,24120.6615,16244.7672,30440.57728
+Western Pacific,Female,75-79,Ischaemic heart disease,30028.69555,20227.03595,37939.99572
+Western Pacific,Female,80+,Ischaemic heart disease,140137.3276,93849.5125,176976.0657
+Western Pacific,Female,All,Ischaemic heart disease,242256.9568,162506.5174,306069.0388
+Western Pacific,Both,75-79,Lower respiratory infections,10589.30756,6718.28051,14745.23351
+Western Pacific,Both,80+,Lower respiratory infections,59284.76146,36332.81268,84498.11426
+Western Pacific,Both,All,Lower respiratory infections,102561.6502,64190.86252,144329.4488
+Western Pacific,Both,25-29,"Trachea, bronchus, lung cancers",170.37559,104.30243,249.22503
+Western Pacific,Both,30-34,"Trachea, bronchus, lung cancers",473.39775,290.16393,690.69005
+Western Pacific,Both,35-39,"Trachea, bronchus, lung cancers",792.73494,482.8283,1160.06018
+Western Pacific,Both,40-44,"Trachea, bronchus, lung cancers",1766.39872,1075.78981,2585.03547
+Western Pacific,Both,45-49,"Trachea, bronchus, lung cancers",3844.99489,2342.9891,5623.98348
+Western Pacific,Both,50-54,"Trachea, bronchus, lung cancers",7535.60833,4601.47247,11011.25018
+Western Pacific,Both,55-59,"Trachea, bronchus, lung cancers",10882.93846,6643.35928,15916.63555
+Western Pacific,Both,60-64,"Trachea, bronchus, lung cancers",15416.68958,9410.33079,22565.71152
+Western Pacific,Both,65-69,"Trachea, bronchus, lung cancers",21879.58164,13350.89185,32033.00456
+Western Pacific,Both,70-74,"Trachea, bronchus, lung cancers",19620.28975,11939.64652,28791.55141
+Western Pacific,Both,75-79,"Trachea, bronchus, lung cancers",16294.62035,9884.22771,23990.15526
+Western Pacific,Both,80+,"Trachea, bronchus, lung cancers",23766.27213,14240.80907,35231.81469
+Western Pacific,Both,All,"Trachea, bronchus, lung cancers",122443.9021,74379.02197,179911.773
+Western Pacific,Female,25-29,Ischaemic heart disease,283.69064,190.11789,357.55633
+Western Pacific,Female,30-34,Ischaemic heart disease,572.48414,385.03461,721.03267
+Western Pacific,Female,35-39,Ischaemic heart disease,767.26575,513.47321,968.0194
+Western Pacific,Female,40-44,Ischaemic heart disease,1469.26289,985.10509,1852.44235
+Western Pacific,Female,45-49,Ischaemic heart disease,2732.0037,1836.63658,3445.42832
+Western Pacific,Female,50-54,Ischaemic heart disease,4855.88724,3267.72953,6122.51463
+Western Pacific,Female,55-59,Ischaemic heart disease,6878.35664,4628.17891,8675.90216
+Western Pacific,Female,30-34,Stroke,320.15715,167.1781,481.42098
+Western Pacific,Female,All,Chronic obstructive pulmonary disease,89265.15598,35960.12536,164537.5011
+Western Pacific,Female,0-4,Lower respiratory infections,3050.37687,2037.96223,4098.25739
+Western Pacific,Female,5-9,Lower respiratory infections,136.04053,87.98511,186.21212
+Western Pacific,Female,10-14,Lower respiratory infections,84.36322,53.34934,117.40226
+Western Pacific,Female,15-19,Lower respiratory infections,103.12612,63.71103,145.85618
+Western Pacific,Female,20-24,Lower respiratory infections,110.80225,68.88064,155.93468
+Western Pacific,Female,35-39,Stroke,524.84979,274.14766,781.36884
+Western Pacific,Female,40-44,Stroke,1143.00723,596.84893,1713.06277
+Western Pacific,Female,45-49,Stroke,2408.75162,1257.15755,3628.17355
+Western Pacific,Female,50-54,Stroke,4831.71316,2549.10982,7291.44689
+Western Pacific,Female,55-59,Stroke,6558.95945,3468.40115,9893.00374
+Western Pacific,Female,60-64,Stroke,10059.44594,5335.07203,15212.77852
+Western Pacific,Female,65-69,Stroke,17941.15431,9529.14668,27162.567
+Western Pacific,Female,70-74,Stroke,22194.18486,11785.66517,33602.06479
+Western Pacific,Female,75-79,Stroke,26047.05578,13777.87285,39352.64477
+Western Pacific,Female,80+,Stroke,84551.21978,44132.55362,126730.4701
+Western Pacific,Female,All,Stroke,176733.8526,92208.75217,267008.8683
+Western Pacific,Female,25-29,Chronic obstructive pulmonary disease,29.60418,11.30976,55.53139
+Western Pacific,Female,30-34,Chronic obstructive pulmonary disease,61.60198,24.0726,114.78345
+Western Pacific,Female,35-39,Chronic obstructive pulmonary disease,85.98018,33.42693,160.51788
+Western Pacific,Female,40-44,Chronic obstructive pulmonary disease,180.11034,71.16314,333.35402
+Western Pacific,Female,45-49,Chronic obstructive pulmonary disease,397.08528,159.13599,730.98398
+Western Pacific,Female,50-54,Chronic obstructive pulmonary disease,872.41599,351.03059,1608.63544
+Western Pacific,Female,55-59,Chronic obstructive pulmonary disease,1435.00637,577.25201,2650.3765
+Western Pacific,Female,60-64,Chronic obstructive pulmonary disease,2887.4822,1165.10266,5320.8143
+Western Pacific,Female,65-69,Chronic obstructive pulmonary disease,6175.11338,2508.61208,11314.2672
+Western Pacific,Female,70-74,Chronic obstructive pulmonary disease,9773.44154,3972.24936,17867.62015
+Western Pacific,Female,75-79,Chronic obstructive pulmonary disease,13393.98733,5434.44053,24504.72101
+Western Pacific,Female,80+,Chronic obstructive pulmonary disease,53973.32721,21633.4896,99860.10867
+Western Pacific,Female,25-29,Stroke,153.35357,80.18704,228.8872
+Western Pacific,Female,25-29,Lower respiratory infections,134.22577,83.24854,189.44236
+Western Pacific,Female,All,"Trachea, bronchus, lung cancers",37662.42364,22885.05462,55334.3725
+Western Pacific,Male,25-29,Ischaemic heart disease,957.92303,644.43725,1206.3862
+Western Pacific,Male,30-34,Ischaemic heart disease,2292.75728,1543.17792,2889.36057
+Western Pacific,Male,35-39,Ischaemic heart disease,3183.04261,2139.3279,4012.91216
+Western Pacific,Male,40-44,Ischaemic heart disease,5576.13058,3750.50483,7029.55781
+Western Pacific,Female,30-34,Lower respiratory infections,167.15099,104.57674,234.75894
+Western Pacific,Female,35-39,Lower respiratory infections,187.37396,114.97733,264.99879
+Western Pacific,Female,40-44,Lower respiratory infections,223.93366,142.12148,312.19437
+Western Pacific,Female,45-49,Lower respiratory infections,338.37387,215.31988,469.87418
+Western Pacific,Female,50-54,Lower respiratory infections,526.01199,337.76169,725.51345
+Western Pacific,Female,55-59,Lower respiratory infections,725.41603,463.01037,1003.55437
+Western Pacific,Female,60-64,Lower respiratory infections,1123.32477,714.80627,1556.95364
+Western Pacific,Female,65-69,Lower respiratory infections,1943.46126,1252.17552,2672.70642
+Western Pacific,Female,70-74,Lower respiratory infections,2878.11972,1851.28604,3968.72048
+Western Pacific,Female,75-79,Lower respiratory infections,4304.79493,2748.50812,5965.21498
+Western Pacific,Female,80+,Lower respiratory infections,31129.39149,18907.81165,44530.56288
+Western Pacific,Female,All,Lower respiratory infections,47166.28741,29203.9395,66548.84031
+Western Pacific,Female,25-29,"Trachea, bronchus, lung cancers",61.1154,37.46926,89.28923
+Western Pacific,Female,30-34,"Trachea, bronchus, lung cancers",167.79333,102.77412,244.94964
+Western Pacific,Female,35-39,"Trachea, bronchus, lung cancers",281.5047,171.76255,411.52255
+Western Pacific,Female,40-44,"Trachea, bronchus, lung cancers",634.1728,387.1841,927.18247
+Western Pacific,Female,45-49,"Trachea, bronchus, lung cancers",1234.67277,753.69984,1804.98063
+Western Pacific,Female,50-54,"Trachea, bronchus, lung cancers",2260.93122,1382.11156,3304.32873
+Western Pacific,Female,55-59,"Trachea, bronchus, lung cancers",3024.688,1847.41206,4424.50269
+Western Pacific,Female,60-64,"Trachea, bronchus, lung cancers",4277.93611,2612.77049,6260.45025
+Western Pacific,Female,65-69,"Trachea, bronchus, lung cancers",6177.2474,3773.59335,9035.71585
+Western Pacific,Female,70-74,"Trachea, bronchus, lung cancers",5704.04114,3476.88224,8357.10817
+Western Pacific,Female,75-79,"Trachea, bronchus, lung cancers",5063.8843,3077.96293,7439.84003
+Western Pacific,Female,80+,"Trachea, bronchus, lung cancers",8774.43646,5255.68131,13011.97159
+Western Pacific,Male,45-49,Ischaemic heart disease,9049.82217,6082.61615,11423.40928
+Western Pacific,Male,40-44,Chronic obstructive pulmonary disease,378.17643,150.68609,702.13786
+Western Pacific,Male,45-49,Chronic obstructive pulmonary disease,839.22119,335.61333,1556.53199
+Western Pacific,Male,50-54,Chronic obstructive pulmonary disease,1874.79671,754.68296,3461.99736
+Western Pacific,Male,55-59,Chronic obstructive pulmonary disease,3210.17946,1287.30962,5947.7207
+Western Pacific,Male,60-64,Chronic obstructive pulmonary disease,6105.37172,2447.1292,11316.19716
+Western Pacific,Male,50-54,Ischaemic heart disease,14308.7864,9615.41926,18058.12033
+Western Pacific,Male,55-59,Ischaemic heart disease,17903.95356,12019.6428,22594.76569
+Western Pacific,Male,60-64,Ischaemic heart disease,23346.36591,15666.4094,29466.01599
+Western Pacific,Male,65-69,Ischaemic heart disease,33198.25685,22297.19364,41942.58291
+Western Pacific,Male,70-74,Ischaemic heart disease,34756.59684,23372.86591,43962.4812
+Western Pacific,Male,75-79,Ischaemic heart disease,37616.82286,25325.93453,47605.25147
+Western Pacific,Male,80+,Ischaemic heart disease,117327.8102,78940.96047,148492.0697
+Western Pacific,Male,All,Ischaemic heart disease,299518.2683,201198.4005,378664.0808
+Western Pacific,Male,25-29,Stroke,502.96242,264.10165,759.45052
+Western Pacific,Male,30-34,Stroke,1194.44104,633.53588,1807.36281
+Western Pacific,Male,35-39,Stroke,1764.0422,922.39568,2665.26644
+Western Pacific,Male,40-44,Stroke,3390.20424,1771.54272,5125.63718
+Western Pacific,Male,45-49,Stroke,5986.76395,3138.32091,9043.5877
+Western Pacific,Male,50-54,Stroke,10377.78024,5460.20056,15670.06424
+Western Pacific,Male,55-59,Stroke,13851.11103,7235.72482,20919.6089
+Western Pacific,Male,60-64,Stroke,19680.58444,10330.65901,29714.47123
+Western Pacific,Male,65-69,Stroke,30587.15606,16250.35956,46339.03437
+Western Pacific,Male,70-74,Stroke,33594.11381,17845.59036,50836.7337
+Western Pacific,Male,75-79,Stroke,35619.4455,18926.24999,53910.3969
+Western Pacific,Male,80+,Stroke,81469.0396,42861.01177,122970.7937
+Western Pacific,Male,All,Stroke,238017.6445,125790.2512,359194.7878
+Western Pacific,Male,25-29,Chronic obstructive pulmonary disease,53.53373,20.77585,100.41616
+Western Pacific,Male,30-34,Chronic obstructive pulmonary disease,122.40196,48.40732,227.84744
+Western Pacific,Male,35-39,Chronic obstructive pulmonary disease,165.18149,65.024,308.50448
+Western Pacific,Male,65-69,Chronic obstructive pulmonary disease,11944.38831,4815.03025,22030.92128
+Western Pacific,Male,35-39,"Trachea, bronchus, lung cancers",511.23025,311.06574,749.03925
+Western Pacific,Male,40-44,"Trachea, bronchus, lung cancers",1132.22591,688.60571,1658.59314
+Western Pacific,Male,45-49,"Trachea, bronchus, lung cancers",2610.32212,1589.28925,3819.3171
+Western Pacific,Male,50-54,"Trachea, bronchus, lung cancers",5274.67711,3219.36092,7706.92145
+Western Pacific,Male,55-59,"Trachea, bronchus, lung cancers",7858.25047,4795.94722,11492.13286
+Western Pacific,Male,60-64,"Trachea, bronchus, lung cancers",11138.75347,6797.56029,16305.26127
+Western Pacific,Male,70-74,Chronic obstructive pulmonary disease,17309.05975,6995.6471,31822.8616
+Western Pacific,Male,75-79,Chronic obstructive pulmonary disease,21600.25603,8716.27569,39727.91877
+Western Pacific,Male,80+,Chronic obstructive pulmonary disease,63456.61173,25404.39487,117533.7527
+Western Pacific,Male,80+,"Trachea, bronchus, lung cancers",14991.83567,8985.12776,22219.84311
+Western Pacific,Male,All,"Trachea, bronchus, lung cancers",84781.47849,51493.96736,124577.4005
+Western Pacific,Male,All,Chronic obstructive pulmonary disease,127059.1785,51071.30807,234747.2698
+Western Pacific,Male,0-4,Lower respiratory infections,4042.18066,2682.33522,5448.68133
+Western Pacific,Male,5-9,Lower respiratory infections,137.91031,89.86988,187.12353
+Western Pacific,Male,10-14,Lower respiratory infections,124.71178,80.1143,172.0968
+Western Pacific,Male,15-19,Lower respiratory infections,156.88095,100.46782,217.06669
+Western Pacific,Male,20-24,Lower respiratory infections,216.97167,137.56553,301.19406
+Western Pacific,Male,25-29,Lower respiratory infections,286.86904,180.0523,402.69377
+Western Pacific,Male,30-34,Lower respiratory infections,385.30824,246.48209,532.6494
+Western Pacific,Male,35-39,Lower respiratory infections,384.70086,245.2221,533.023
+Western Pacific,Male,40-44,Lower respiratory infections,503.24931,325.56506,692.61481
+Western Pacific,Male,45-49,Lower respiratory infections,756.09153,490.70091,1037.36136
+Western Pacific,Male,50-54,Lower respiratory infections,1179.68816,768.8561,1614.46832
+Western Pacific,Male,55-59,Lower respiratory infections,1608.49566,1035.60071,2214.66211
+Western Pacific,Male,60-64,Lower respiratory infections,2487.93447,1582.97038,3449.07967
+Western Pacific,Male,65-69,Lower respiratory infections,3837.21318,2443.92567,5315.29027
+Western Pacific,Male,70-74,Lower respiratory infections,4847.27436,3082.65388,6731.44624
+Western Pacific,Male,75-79,Lower respiratory infections,6284.51264,3973.19872,8793.61742
+Western Pacific,Male,80+,Lower respiratory infections,28155.36996,17475.68254,39900.71861
+Western Pacific,Male,All,Lower respiratory infections,55395.36276,34955.65627,77776.66131
+Western Pacific,Male,25-29,"Trachea, bronchus, lung cancers",109.26018,66.83317,159.98035
+Western Pacific,Male,30-34,"Trachea, bronchus, lung cancers",305.60442,187.38981,445.74041
+Western Pacific,Male,65-69,"Trachea, bronchus, lung cancers",15702.33424,9577.2985,22997.28871
+Western Pacific,Male,70-74,"Trachea, bronchus, lung cancers",13916.24861,8462.76428,20434.44324
+Western Pacific,Male,75-79,"Trachea, bronchus, lung cancers",11230.73604,6806.26478,16550.31523

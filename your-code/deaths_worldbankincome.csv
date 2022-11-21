@@ -1,0 +1,421 @@
+WB Region,Sex,Age Group,Cause,Value,Low,High
+High-income,Both,55-59,Stroke,2012.53243,938.55607,3308.20219
+High-income,Both,80+,Stroke,45649.09735,19336.23941,79038.8962
+High-income,Both,All,Stroke,72568.64405,32364.49926,123942.8496
+High-income,Both,25-29,Chronic obstructive pulmonary disease,17.80222,6.52691,34.6895
+High-income,Both,30-34,Chronic obstructive pulmonary disease,34.26248,12.53918,67.19176
+High-income,Both,35-39,Chronic obstructive pulmonary disease,53.69871,18.63361,109.39915
+High-income,Both,40-44,Chronic obstructive pulmonary disease,102.76531,32.89792,218.873
+High-income,Both,45-49,Chronic obstructive pulmonary disease,211.11605,61.19064,474.31784
+High-income,Both,50-54,Chronic obstructive pulmonary disease,507.16122,126.72667,1211.75474
+High-income,Both,60-64,Stroke,2893.72203,1328.77745,4823.01619
+High-income,Both,65-69,Stroke,4155.50712,1883.44614,7016.29605
+High-income,Both,70-74,Stroke,5879.42347,2634.20751,10033.55263
+High-income,Both,75-79,Stroke,8320.06362,3729.36184,14165.7308
+High-income,Both,25-29,Ischaemic heart disease,218.37116,135.33544,284.56024
+High-income,Both,30-34,Ischaemic heart disease,567.74805,352.58904,739.48836
+High-income,Both,35-39,Ischaemic heart disease,1149.07264,714.29219,1496.20338
+High-income,Both,40-44,Ischaemic heart disease,2278.1996,1424.31168,2959.899
+High-income,Both,45-49,Ischaemic heart disease,4254.08769,2604.47892,5544.50746
+High-income,Both,50-54,Ischaemic heart disease,7053.78731,4264.41751,9340.29474
+High-income,Both,55-59,Ischaemic heart disease,11104.4459,6591.21772,14829.97523
+High-income,Both,60-64,Ischaemic heart disease,15445.31711,9086.62153,20724.37668
+High-income,Both,65-69,Ischaemic heart disease,19504.79745,11414.62664,26223.89598
+High-income,Both,70-74,Ischaemic heart disease,24322.59369,14126.713,32824.4173
+High-income,Both,75-79,Ischaemic heart disease,29226.77081,17043.60443,39335.8126
+High-income,Both,80+,Ischaemic heart disease,165160.4442,95987.44786,222780.281
+High-income,Both,All,Ischaemic heart disease,280285.6356,163932.0324,376533.5908
+High-income,Both,25-29,Stroke,96.43155,48.94759,149.10841
+High-income,Both,30-34,Stroke,185.9541,93.60845,290.34122
+High-income,Both,35-39,Stroke,354.03393,181.68534,542.34766
+High-income,Both,40-44,Stroke,624.58986,320.20961,955.85779
+High-income,Both,45-49,Stroke,986.30082,492.78541,1546.5877
+High-income,Both,50-54,Stroke,1410.98778,689.55949,2283.91976
+High-income,Both,55-59,Chronic obstructive pulmonary disease,1152.19434,268.53148,2824.04947
+High-income,Both,25-29,"Trachea, bronchus, lung cancers",6.07796,3.19207,10.22137
+High-income,Both,30-34,"Trachea, bronchus, lung cancers",16.69315,8.50135,28.43037
+High-income,Both,35-39,"Trachea, bronchus, lung cancers",51.15316,26.07487,86.93383
+High-income,Both,60-64,Chronic obstructive pulmonary disease,2123.70302,491.59712,5215.92192
+High-income,Both,65-69,Chronic obstructive pulmonary disease,3206.5392,727.93326,7900.79194
+High-income,Both,70-74,Chronic obstructive pulmonary disease,4872.43835,1061.50761,12104.35555
+High-income,Both,75-79,Chronic obstructive pulmonary disease,5907.035,1327.55472,14572.56957
+High-income,Both,80+,Chronic obstructive pulmonary disease,24250.69439,5523.43885,59038.47836
+High-income,Both,All,Chronic obstructive pulmonary disease,42439.41029,9670.81791,103862.5022
+High-income,Both,0-4,Lower respiratory infections,232.1992,124.61762,372.18017
+High-income,Both,5-9,Lower respiratory infections,31.90717,17.56808,50.51904
+High-income,Both,10-14,Lower respiratory infections,29.5795,16.39261,46.58093
+High-income,Both,15-19,Lower respiratory infections,44.02208,25.32774,66.97931
+High-income,Both,20-24,Lower respiratory infections,79.45582,47.2573,120.2135
+High-income,Both,25-29,Lower respiratory infections,121.02787,75.24024,179.154
+High-income,Both,30-34,Lower respiratory infections,183.6105,114.54858,271.19857
+High-income,Both,35-39,Lower respiratory infections,256.55593,160.25307,378.19834
+High-income,Both,40-44,Lower respiratory infections,375.62989,232.97164,555.45773
+High-income,Both,45-49,Lower respiratory infections,520.11382,304.70256,796.99667
+High-income,Both,50-54,Lower respiratory infections,695.88459,376.58558,1113.11738
+High-income,Both,55-59,Lower respiratory infections,1029.87627,514.25204,1705.27409
+High-income,Both,60-64,Lower respiratory infections,1543.75957,730.7437,2590.96416
+High-income,Both,65-69,Lower respiratory infections,2135.68566,975.18801,3635.95635
+High-income,Both,70-74,Lower respiratory infections,3084.78734,1351.55754,5331.72509
+High-income,Both,75-79,Lower respiratory infections,4771.44431,2105.29698,8196.83238
+High-income,Both,80+,Lower respiratory infections,35915.82126,14871.91844,62999.83405
+High-income,Both,All,Lower respiratory infections,51051.3608,22073.76689,88433.43684
+High-income,Both,40-44,"Trachea, bronchus, lung cancers",137.64384,69.24265,235.52505
+High-income,Female,30-34,Stroke,72.77599,36.48177,114.10852
+High-income,Female,35-39,Stroke,138.56749,70.98104,213.05465
+High-income,Both,45-49,"Trachea, bronchus, lung cancers",367.4845,182.73782,632.54305
+High-income,Both,50-54,"Trachea, bronchus, lung cancers",866.75862,426.83808,1502.86399
+High-income,Both,55-59,"Trachea, bronchus, lung cancers",1885.16177,924.37663,3272.97066
+High-income,Both,60-64,"Trachea, bronchus, lung cancers",3060.08112,1507.85794,5283.58181
+High-income,Both,65-69,"Trachea, bronchus, lung cancers",4021.72141,1977.17823,6930.74377
+High-income,Both,70-74,"Trachea, bronchus, lung cancers",4604.65636,2247.44091,7972.63987
+High-income,Both,75-79,"Trachea, bronchus, lung cancers",4109.45699,2008.50553,7115.0756
+High-income,Both,80+,"Trachea, bronchus, lung cancers",7552.25684,3683.57883,13049.38349
+High-income,Both,All,"Trachea, bronchus, lung cancers",26679.14571,13062.83078,46135.59522
+High-income,Female,25-29,Ischaemic heart disease,54.42388,33.8054,70.97475
+High-income,Female,30-34,Ischaemic heart disease,130.56099,81.4986,169.56992
+High-income,Female,35-39,Ischaemic heart disease,247.25972,152.01425,323.16297
+High-income,Female,40-44,Ischaemic heart disease,472.78576,292.45009,617.18675
+High-income,Female,45-49,Ischaemic heart disease,874.73181,534.29038,1145.75048
+High-income,Female,50-54,Ischaemic heart disease,1467.11368,873.75452,1954.26542
+High-income,Female,55-59,Ischaemic heart disease,2451.04083,1434.39962,3297.84781
+High-income,Female,60-64,Ischaemic heart disease,3793.18393,2216.27907,5108.16097
+High-income,Female,65-69,Ischaemic heart disease,5575.03427,3261.52409,7498.5789
+High-income,Female,70-74,Ischaemic heart disease,8128.28927,4738.17019,10949.21554
+High-income,Female,75-79,Ischaemic heart disease,11831.27811,6927.85547,15887.18945
+High-income,Female,80+,Ischaemic heart disease,97627.04446,57027.05151,131405.5469
+High-income,Female,All,Ischaemic heart disease,132652.7467,77575.52148,178244.2225
+High-income,Female,25-29,Stroke,37.84547,19.39778,59.04771
+High-income,Female,40-44,Stroke,241.36816,123.5827,370.08355
+High-income,Female,10-14,Lower respiratory infections,13.9525,7.864,21.93422
+High-income,Female,15-19,Lower respiratory infections,20.07827,11.86232,30.01615
+High-income,Female,20-24,Lower respiratory infections,32.57104,20.17004,48.26284
+High-income,Female,45-49,Stroke,353.42934,172.69618,565.99557
+High-income,Female,50-54,Stroke,486.47105,226.43112,800.24092
+High-income,Female,35-39,Lower respiratory infections,95.54229,59.75365,139.43185
+High-income,Female,40-44,Lower respiratory infections,134.6346,83.34754,197.80543
+High-income,Female,45-49,Lower respiratory infections,170.13504,101.10273,262.01318
+High-income,Female,50-54,Lower respiratory infections,218.85471,113.95044,360.58425
+High-income,Female,55-59,Lower respiratory infections,317.36388,151.33393,541.35875
+High-income,Female,60-64,Lower respiratory infections,485.21229,220.07601,844.52778
+High-income,Female,65-69,Lower respiratory infections,706.62366,318.49381,1223.83825
+High-income,Female,70-74,Lower respiratory infections,1074.82811,465.25432,1890.88757
+High-income,Female,75-79,Lower respiratory infections,1839.64668,807.90865,3166.78217
+High-income,Female,80+,Lower respiratory infections,19777.15074,8190.80762,34691.94659
+High-income,Female,All,Lower respiratory infections,25133.68856,10712.64574,43751.76182
+High-income,Female,25-29,"Trachea, bronchus, lung cancers",2.74079,1.44996,4.57895
+High-income,Female,30-34,"Trachea, bronchus, lung cancers",7.86091,4.06077,13.34663
+High-income,Female,35-39,"Trachea, bronchus, lung cancers",20.66586,10.53409,35.23955
+High-income,Female,40-44,"Trachea, bronchus, lung cancers",52.8185,26.07605,91.22836
+High-income,Female,45-49,"Trachea, bronchus, lung cancers",142.18471,69.4583,247.26372
+High-income,Female,50-54,"Trachea, bronchus, lung cancers",328.96309,160.04656,575.49189
+High-income,Female,55-59,"Trachea, bronchus, lung cancers",679.17219,328.53834,1193.19351
+High-income,Female,60-64,"Trachea, bronchus, lung cancers",1008.72097,491.68722,1760.05499
+High-income,Female,65-69,"Trachea, bronchus, lung cancers",1276.9096,620.53271,2226.33806
+High-income,Female,70-74,"Trachea, bronchus, lung cancers",1463.8367,705.38132,2567.88356
+High-income,Female,75-79,"Trachea, bronchus, lung cancers",1303.54027,626.67686,2286.62907
+High-income,Female,80+,"Trachea, bronchus, lung cancers",2836.26112,1374.61608,4932.45587
+High-income,Female,All,"Trachea, bronchus, lung cancers",9123.6747,4413.60158,15922.53413
+High-income,Male,25-29,Ischaemic heart disease,163.94728,101.53662,213.5849
+High-income,Female,55-59,Stroke,685.68153,312.96691,1155.91339
+High-income,Female,60-64,Stroke,995.79327,450.52567,1683.75793
+High-income,Female,65-69,Stroke,1563.39145,705.60501,2648.63764
+High-income,Female,70-74,Stroke,2454.71228,1096.99226,4200.76415
+High-income,Female,75-79,Stroke,3947.14275,1770.25261,6737.72158
+High-income,Female,80+,Stroke,29262.42936,12391.49523,50677.86857
+High-income,Female,All,Stroke,40239.60815,17375.71249,69185.2977
+High-income,Female,25-29,Chronic obstructive pulmonary disease,3.97776,1.38832,8.18396
+High-income,Female,30-34,Chronic obstructive pulmonary disease,9.33087,3.20952,19.39503
+High-income,Female,35-39,Chronic obstructive pulmonary disease,17.58516,6.07316,36.25424
+High-income,Female,40-44,Chronic obstructive pulmonary disease,33.62588,9.96019,74.86762
+High-income,Female,45-49,Chronic obstructive pulmonary disease,72.9376,18.84699,172.20786
+High-income,Female,50-54,Chronic obstructive pulmonary disease,203.5386,45.65157,505.78868
+High-income,Female,55-59,Chronic obstructive pulmonary disease,480.05236,101.56703,1209.91029
+High-income,Female,60-64,Chronic obstructive pulmonary disease,856.18663,182.15016,2140.1787
+High-income,Female,65-69,Chronic obstructive pulmonary disease,1287.78105,275.59527,3211.36577
+High-income,Female,70-74,Chronic obstructive pulmonary disease,1979.14928,411.61836,4966.19229
+High-income,Female,75-79,Chronic obstructive pulmonary disease,2429.50829,520.19321,6057.8517
+High-income,Female,80+,Chronic obstructive pulmonary disease,11655.0342,2636.28696,28495.20807
+High-income,Female,All,Chronic obstructive pulmonary disease,19028.70769,4240.00488,47000.09864
+High-income,Female,0-4,Lower respiratory infections,103.11186,55.72679,164.43033
+High-income,Female,5-9,Lower respiratory infections,16.97409,9.67538,26.27812
+High-income,Female,25-29,Lower respiratory infections,51.10174,32.28049,74.37738
+High-income,Female,30-34,Lower respiratory infections,75.90707,47.76642,110.79415
+High-income,Male,80+,Stroke,16386.66799,6944.74418,28361.02763
+High-income,Male,25-29,Chronic obstructive pulmonary disease,13.82445,5.12718,26.42536
+High-income,Male,30-34,Chronic obstructive pulmonary disease,24.93161,9.28707,47.69923
+High-income,Male,All,Stroke,32329.0359,14581.91209,54986.25556
+High-income,Male,30-34,Ischaemic heart disease,437.18706,271.10296,569.44108
+High-income,Male,35-39,Ischaemic heart disease,901.81292,561.6747,1172.99233
+High-income,Male,40-44,Ischaemic heart disease,1805.41384,1130.85783,2341.12297
+High-income,Male,45-49,Ischaemic heart disease,3379.35588,2070.18854,4399.8568
+High-income,Male,50-54,Ischaemic heart disease,5586.67363,3390.14037,7380.6863
+High-income,Male,55-59,Ischaemic heart disease,8653.40507,5157.14954,11532.12742
+High-income,Male,70-74,Chronic obstructive pulmonary disease,2893.28907,651.37495,7138.34746
+High-income,Male,75-79,Chronic obstructive pulmonary disease,3477.52671,797.18434,8486.99592
+High-income,Male,80+,Chronic obstructive pulmonary disease,12595.66019,2887.15189,30551.02966
+High-income,Male,All,Chronic obstructive pulmonary disease,23410.7026,5443.17135,56858.91767
+High-income,Male,0-4,Lower respiratory infections,129.08735,68.7809,207.74934
+High-income,Male,5-9,Lower respiratory infections,14.93308,7.93702,24.21812
+High-income,Male,10-14,Lower respiratory infections,15.62701,8.51547,24.64495
+High-income,Male,15-19,Lower respiratory infections,23.9438,13.56819,36.99655
+High-income,Male,20-24,Lower respiratory infections,46.88479,27.01725,71.78665
+High-income,Male,25-29,Lower respiratory infections,69.92613,42.21547,105.38346
+High-income,Male,30-34,Lower respiratory infections,107.70343,65.70445,160.27363
+High-income,Male,35-39,Lower respiratory infections,161.01364,99.49457,238.64113
+High-income,Male,40-44,Lower respiratory infections,240.99529,148.39257,357.30519
+High-income,Male,45-49,Lower respiratory infections,349.97879,203.60903,534.048
+High-income,Male,50-54,Lower respiratory infections,477.02988,262.84027,748.97548
+High-income,Male,55-59,Lower respiratory infections,712.51239,364.29554,1166.36542
+High-income,Male,60-64,Lower respiratory infections,1058.54728,511.94277,1754.93469
+High-income,Male,65-69,Lower respiratory infections,1429.06201,656.47719,2423.59459
+High-income,Male,70-74,Lower respiratory infections,2009.95923,886.30322,3455.43897
+High-income,Male,75-79,Lower respiratory infections,2931.79763,1297.61177,5035.64404
+High-income,Male,80+,Lower respiratory infections,16138.67051,6680.27299,28319.14256
+High-income,Male,60-64,Ischaemic heart disease,11652.13318,6870.34246,15616.21571
+High-income,Male,65-69,Ischaemic heart disease,13929.76319,8153.10256,18725.28767
+High-income,Male,70-74,Ischaemic heart disease,16194.30443,9388.54282,21875.20176
+High-income,Male,75-79,Ischaemic heart disease,17395.4927,10115.74896,23457.44612
+High-income,Male,80+,Ischaemic heart disease,67533.39979,38956.21139,91374.73408
+High-income,Male,All,Ischaemic heart disease,147632.889,86356.51093,198429.2716
+High-income,Male,25-29,Stroke,58.58608,29.81385,90.28964
+High-income,Male,30-34,Stroke,113.17811,57.12668,176.48318
+High-income,Male,35-39,Stroke,215.46644,110.64376,330.08148
+High-income,Male,40-44,Stroke,383.2217,196.62691,586.71971
+High-income,Male,45-49,Stroke,632.87148,316.88742,981.71706
+High-income,Male,50-54,Stroke,924.51673,451.44332,1478.77093
+High-income,Male,55-59,Stroke,1326.8509,629.75581,2170.80504
+High-income,Male,60-64,Stroke,1897.92876,881.49487,3130.31344
+High-income,Male,65-69,Stroke,2592.11566,1175.23802,4353.2022
+High-income,Male,70-74,Stroke,3424.71118,1534.41146,5832.78848
+High-income,Male,75-79,Stroke,4372.92087,1959.10923,7444.83626
+High-income,Male,35-39,Chronic obstructive pulmonary disease,36.11355,12.68317,72.88759
+High-income,Male,40-44,Chronic obstructive pulmonary disease,69.13943,22.95325,144.08465
+High-income,Male,45-49,Chronic obstructive pulmonary disease,138.17845,42.34365,301.01728
+High-income,Male,50-54,Chronic obstructive pulmonary disease,303.62262,81.20463,707.94965
+High-income,Male,55-59,Chronic obstructive pulmonary disease,672.14198,165.68314,1616.51447
+High-income,Male,60-64,Chronic obstructive pulmonary disease,1267.5164,304.82936,3077.28545
+High-income,Male,65-69,Chronic obstructive pulmonary disease,1918.75815,450.37412,4683.36299
+Low- and middle-income,Both,40-44,Ischaemic heart disease,32900.33687,22261.57368,41422.69945
+Low- and middle-income,Both,75-79,Ischaemic heart disease,211063.6368,141159.5712,266888.7133
+Low- and middle-income,Both,80+,Ischaemic heart disease,562870.9957,374080.7134,715743.3481
+Low- and middle-income,Both,45-49,Ischaemic heart disease,53454.51197,36095.17192,67390.44135
+Low- and middle-income,Both,50-54,Ischaemic heart disease,83960.40653,56662.8267,105908.3534
+Low- and middle-income,Both,55-59,Ischaemic heart disease,118942.7064,80103.53761,149994.8485
+Low- and middle-income,Both,60-64,Ischaemic heart disease,153032.2455,102706.1872,193025.7375
+Low- and middle-income,Both,65-69,Ischaemic heart disease,191319.4786,128231.2187,241543.5493
+Low- and middle-income,Both,70-74,Ischaemic heart disease,197377.1641,132179.9342,249513.3559
+High-income,Male,All,Lower respiratory infections,25917.67224,11346.21529,44758.83714
+High-income,Male,25-29,"Trachea, bronchus, lung cancers",3.33717,1.74483,5.63894
+High-income,Male,30-34,"Trachea, bronchus, lung cancers",8.83224,4.44071,15.08561
+High-income,Male,35-39,"Trachea, bronchus, lung cancers",30.4873,15.54079,51.69213
+High-income,Male,40-44,"Trachea, bronchus, lung cancers",84.82535,43.1666,144.29668
+Low- and middle-income,Both,75-79,Stroke,126305.1405,67229.15832,189259.7647
+Low- and middle-income,Both,80+,Stroke,280775.2106,147380.6492,420377.3621
+Low- and middle-income,Both,All,Stroke,852370.4756,453262.5517,1275896.222
+Low- and middle-income,Both,25-29,Chronic obstructive pulmonary disease,471.22175,188.78476,866.26638
+Low- and middle-income,Both,30-34,Chronic obstructive pulmonary disease,797.22017,321.75029,1458.09288
+Low- and middle-income,Both,35-39,Chronic obstructive pulmonary disease,1322.12072,538.73549,2409.33336
+Low- and middle-income,Both,40-44,Chronic obstructive pulmonary disease,2434.40713,996.41544,4412.1847
+Low- and middle-income,Both,45-49,Chronic obstructive pulmonary disease,5166.89815,2126.67709,9315.99418
+Low- and middle-income,Both,50-54,Chronic obstructive pulmonary disease,11815.6326,4890.27941,21132.45456
+Low- and middle-income,Both,55-59,Chronic obstructive pulmonary disease,21046.96599,8713.36143,37658.53122
+Low- and middle-income,Both,60-64,Chronic obstructive pulmonary disease,38502.79158,15928.88684,68914.15089
+Low- and middle-income,Both,65-69,Chronic obstructive pulmonary disease,60219.12955,24904.05245,107920.1269
+Low- and middle-income,Both,70-74,Chronic obstructive pulmonary disease,78597.34585,32465.68332,141303.4486
+Low- and middle-income,Both,75-79,Chronic obstructive pulmonary disease,88697.87893,36597.40966,159847.8614
+Low- and middle-income,Both,80+,Chronic obstructive pulmonary disease,220594.395,90528.02416,400056.527
+High-income,Male,45-49,"Trachea, bronchus, lung cancers",225.29979,113.40178,385.27932
+High-income,Male,50-54,"Trachea, bronchus, lung cancers",537.79552,267.20305,927.3721
+High-income,Male,55-59,"Trachea, bronchus, lung cancers",1205.98958,596.57283,2079.77715
+High-income,Male,60-64,"Trachea, bronchus, lung cancers",2051.36015,1016.7772,3523.52683
+High-income,Male,65-69,"Trachea, bronchus, lung cancers",2744.81181,1357.22133,4706.97337
+High-income,Male,70-74,"Trachea, bronchus, lung cancers",3140.81967,1541.9493,5411.17952
+High-income,Male,75-79,"Trachea, bronchus, lung cancers",2805.91672,1382.00789,4828.42325
+High-income,Male,80+,"Trachea, bronchus, lung cancers",4715.99572,2308.96275,8116.92762
+High-income,Male,All,"Trachea, bronchus, lung cancers",17555.47101,8646.26136,30212.40214
+Low- and middle-income,Both,25-29,Ischaemic heart disease,6177.71408,4203.42885,7795.39716
+Low- and middle-income,Both,30-34,Ischaemic heart disease,12392.27292,8419.84823,15624.17934
+Low- and middle-income,Both,35-39,Ischaemic heart disease,20514.55031,13906.45578,25832.74298
+Low- and middle-income,Both,All,Ischaemic heart disease,1644006.02,1099627.331,2077985.983
+Low- and middle-income,Both,25-29,Stroke,2566.88473,1355.02002,3847.51166
+Low- and middle-income,Both,30-34,Stroke,4486.14338,2379.45985,6724.63231
+Low- and middle-income,Both,35-39,Stroke,7358.18463,3919.2998,11031.84397
+Low- and middle-income,Both,40-44,Stroke,12721.22636,6776.94458,19091.17513
+Low- and middle-income,Both,45-49,Stroke,21685.07242,11595.73945,32565.37053
+Low- and middle-income,Both,50-54,Stroke,38369.32818,20513.24338,57663.86056
+Low- and middle-income,Both,55-59,Stroke,54323.52827,29070.41883,81458.55558
+Low- and middle-income,Both,60-64,Stroke,77994.17595,41674.36462,116983.3568
+Low- and middle-income,Both,65-69,Stroke,107919.2934,57619.15116,162348.579
+Low- and middle-income,Both,70-74,Stroke,117866.2872,62883.35776,177250.1358
+Low- and middle-income,Both,65-69,Lower respiratory infections,33404.39917,23085.81447,44818.95764
+Low- and middle-income,Both,55-59,"Trachea, bronchus, lung cancers",17006.49111,10366.79786,24981.03485
+Low- and middle-income,Both,70-74,Lower respiratory infections,40324.38533,27896.45139,54123.30209
+Low- and middle-income,Both,75-79,Lower respiratory infections,43565.47387,29896.41978,58674.7202
+Low- and middle-income,Both,80+,Lower respiratory infections,122088.9218,80801.83123,167669.1932
+Low- and middle-income,Both,All,Lower respiratory infections,488905.3656,338874.1412,658395.8691
+Low- and middle-income,Both,25-29,"Trachea, bronchus, lung cancers",326.88637,201.00363,477.00825
+Low- and middle-income,Both,30-34,"Trachea, bronchus, lung cancers",763.26559,468.51643,1113.84182
+Low- and middle-income,Both,35-39,"Trachea, bronchus, lung cancers",1329.56534,813.07016,1948.03579
+Low- and middle-income,Both,40-44,"Trachea, bronchus, lung cancers",2899.36722,1770.39553,4259.00911
+Low- and middle-income,Both,45-49,"Trachea, bronchus, lung cancers",6231.0741,3797.24848,9147.56207
+Low- and middle-income,Both,50-54,"Trachea, bronchus, lung cancers",11671.4415,7119.28726,17129.19099
+Low- and middle-income,Both,All,Chronic obstructive pulmonary disease,529666.0074,218199.4393,956840.5569
+Low- and middle-income,Both,0-4,Lower respiratory infections,145901.9586,102707.8809,191698.4181
+Low- and middle-income,Both,5-9,Lower respiratory infections,9179.44063,6266.43682,12242.62555
+Low- and middle-income,Both,10-14,Lower respiratory infections,5298.88711,3586.59148,7095.09827
+Low- and middle-income,Both,15-19,Lower respiratory infections,2789.49129,1890.87236,3783.62388
+Low- and middle-income,Both,20-24,Lower respiratory infections,3039.42585,2042.11843,4142.67802
+Low- and middle-income,Female,70-74,Ischaemic heart disease,85961.11924,57595.35057,108705.9086
+Low- and middle-income,Female,75-79,Ischaemic heart disease,101375.6566,67510.13034,128496.3923
+Low- and middle-income,Female,80+,Ischaemic heart disease,315361.3951,208004.0144,402653.2922
+Low- and middle-income,Female,All,Ischaemic heart disease,728975.6971,486559.3209,923776.0182
+Low- and middle-income,Female,25-29,Stroke,904.96603,477.04998,1352.53547
+Low- and middle-income,Female,30-34,Stroke,1503.1907,795.36343,2250.76901
+Low- and middle-income,Female,35-39,Stroke,2622.08992,1392.84639,3910.61579
+Low- and middle-income,Female,40-44,Stroke,4620.27609,2459.5435,6930.04457
+Low- and middle-income,Female,45-49,Stroke,8236.26419,4399.01511,12358.65562
+Low- and middle-income,Female,50-54,Stroke,15374.80893,8211.57266,23103.55943
+Low- and middle-income,Both,25-29,Lower respiratory infections,3757.12863,2525.54055,5157.35129
+Low- and middle-income,Both,30-34,Lower respiratory infections,4419.13261,2928.38264,6135.29049
+Low- and middle-income,Both,35-39,Lower respiratory infections,5656.92771,3738.54714,7860.42801
+Low- and middle-income,Both,40-44,Lower respiratory infections,6619.35484,4402.08996,9203.11224
+Low- and middle-income,Both,45-49,Lower respiratory infections,8478.43187,5673.95718,11727.29483
+Low- and middle-income,Both,50-54,Lower respiratory infections,12313.76161,8380.19366,16816.93848
+Low- and middle-income,Both,55-59,Lower respiratory infections,16963.16207,11601.98788,23070.0905
+Low- and middle-income,Both,60-64,Lower respiratory infections,25105.08258,17313.25362,33867.53368
+Low- and middle-income,Both,60-64,"Trachea, bronchus, lung cancers",22879.91006,13925.03773,33588.99149
+Low- and middle-income,Both,65-69,"Trachea, bronchus, lung cancers",29293.03824,17824.74255,42932.11012
+Low- and middle-income,Both,70-74,"Trachea, bronchus, lung cancers",25774.62468,15689.96255,37747.74491
+Low- and middle-income,Both,75-79,"Trachea, bronchus, lung cancers",20680.26906,12585.2139,30320.30672
+Low- and middle-income,Both,80+,"Trachea, bronchus, lung cancers",27124.6521,16472.42388,39768.60826
+Low- and middle-income,Both,All,"Trachea, bronchus, lung cancers",165980.5853,101049.2271,243454.1181
+Low- and middle-income,Female,25-29,Ischaemic heart disease,1867.68977,1272.42918,2356.83173
+Low- and middle-income,Female,30-34,Ischaemic heart disease,3321.61339,2257.66571,4190.77496
+Low- and middle-income,Female,35-39,Ischaemic heart disease,5478.94732,3723.17208,6905.19683
+Low- and middle-income,Female,40-44,Ischaemic heart disease,9264.3428,6294.51501,11674.74885
+Low- and middle-income,Female,45-49,Ischaemic heart disease,15066.01626,10193.88052,18972.93447
+Low- and middle-income,Female,50-54,Ischaemic heart disease,25916.75859,17544.39935,32677.40872
+Low- and middle-income,Female,55-59,Ischaemic heart disease,37210.49127,25132.58027,46925.3801
+Low- and middle-income,Female,60-64,Ischaemic heart disease,53578.27238,36076.04326,67620.62025
+Low- and middle-income,Female,65-69,Ischaemic heart disease,74573.39437,50088.88301,94226.27363
+Low- and middle-income,Female,35-39,Chronic obstructive pulmonary disease,487.93066,199.04007,889.98819
+Low- and middle-income,Female,25-29,Lower respiratory infections,1617.21139,1088.83866,2212.60988
+Low- and middle-income,Female,40-44,Chronic obstructive pulmonary disease,818.68941,336.06083,1485.80734
+Low- and middle-income,Female,45-49,Chronic obstructive pulmonary disease,1735.51208,715.18998,3128.10479
+Low- and middle-income,Female,50-54,Chronic obstructive pulmonary disease,4237.36421,1764.62569,7567.03278
+Low- and middle-income,Female,55-59,Chronic obstructive pulmonary disease,7070.62416,2929.26912,12661.58281
+Low- and middle-income,Female,60-64,Chronic obstructive pulmonary disease,13638.45225,5670.81724,24350.14753
+Low- and middle-income,Female,65-69,Chronic obstructive pulmonary disease,21766.00706,9058.74774,38905.83089
+Low- and middle-income,Female,70-74,Chronic obstructive pulmonary disease,30729.46376,12770.23282,55067.27785
+Low- and middle-income,Female,75-79,Chronic obstructive pulmonary disease,36032.54053,14921.37661,64820.28869
+Low- and middle-income,Female,80+,Chronic obstructive pulmonary disease,104227.1301,42837.69242,188986.2446
+Low- and middle-income,Female,All,Chronic obstructive pulmonary disease,221224.4982,91439.64982,399223.8955
+Low- and middle-income,Female,0-4,Lower respiratory infections,63846.10707,45113.8186,83838.67143
+Low- and middle-income,Female,5-9,Lower respiratory infections,4877.25259,3330.64718,6499.15113
+Low- and middle-income,Female,10-14,Lower respiratory infections,2553.2416,1735.12078,3418.36265
+Low- and middle-income,Female,15-19,Lower respiratory infections,1253.77472,851.97099,1698.20301
+Low- and middle-income,Female,20-24,Lower respiratory infections,1304.98547,888.53299,1766.38877
+Low- and middle-income,Female,55-59,Stroke,21259.5087,11361.22453,31873.54988
+Low- and middle-income,Female,60-64,Stroke,31484.83637,16820.57939,47347.98833
+Low- and middle-income,Female,65-69,Stroke,45378.06122,24205.40128,68260.68938
+Low- and middle-income,Female,70-74,Stroke,53485.56846,28511.94256,80413.8928
+Low- and middle-income,Female,75-79,Stroke,61278.423,32481.26718,91694.27058
+Low- and middle-income,Female,65-69,"Trachea, bronchus, lung cancers",8067.96661,4901.68555,11834.04207
+Low- and middle-income,Female,70-74,"Trachea, bronchus, lung cancers",7515.19677,4568.58092,11023.45708
+Low- and middle-income,Female,75-79,"Trachea, bronchus, lung cancers",6510.70406,3957.13944,9558.83216
+Low- and middle-income,Female,80+,"Trachea, bronchus, lung cancers",10045.56326,6100.18605,14747.05857
+Low- and middle-income,Female,All,"Trachea, bronchus, lung cancers",50155.42697,30494.43503,73605.33011
+Low- and middle-income,Female,80+,Stroke,154688.8775,81040.91794,229891.9361
+Low- and middle-income,Female,All,Stroke,400836.8711,211397.6459,600876.8325
+Low- and middle-income,Female,25-29,Chronic obstructive pulmonary disease,182.50766,72.76163,336.34106
+Low- and middle-income,Female,30-34,Chronic obstructive pulmonary disease,298.27636,120.72198,544.88075
+Low- and middle-income,Female,30-34,Lower respiratory infections,1787.95072,1186.39842,2482.84115
+Low- and middle-income,Female,35-39,Lower respiratory infections,2289.83761,1523.10051,3164.39574
+Low- and middle-income,Female,40-44,Lower respiratory infections,2571.00063,1728.30404,3531.30025
+Low- and middle-income,Female,45-49,Lower respiratory infections,2999.93933,2030.37262,4108.75872
+Low- and middle-income,Female,50-54,Lower respiratory infections,5065.50565,3486.05752,6814.17407
+Low- and middle-income,Female,55-59,Lower respiratory infections,6686.46624,4614.09898,8993.77849
+Low- and middle-income,Female,60-64,Lower respiratory infections,10445.83173,7286.60708,13943.76984
+Low- and middle-income,Female,65-69,Lower respiratory infections,14855.59107,10462.37,19738.61431
+Low- and middle-income,Female,70-74,Lower respiratory infections,18999.19745,13233.91564,25342.69826
+Low- and middle-income,Female,75-79,Lower respiratory infections,20804.08373,14293.78938,27987.37778
+Low- and middle-income,Female,80+,Lower respiratory infections,64945.17094,42544.4327,89432.92715
+Low- and middle-income,Female,All,Lower respiratory infections,226903.1479,157338.5733,305324.7453
+Low- and middle-income,Female,25-29,"Trachea, bronchus, lung cancers",122.6698,75.25557,178.93722
+Low- and middle-income,Female,30-34,"Trachea, bronchus, lung cancers",285.75384,175.18359,417.6141
+Low- and middle-income,Female,35-39,"Trachea, bronchus, lung cancers",502.02503,306.63518,734.88429
+Low- and middle-income,Female,40-44,"Trachea, bronchus, lung cancers",1056.2487,645.11276,1546.71239
+Low- and middle-income,Female,45-49,"Trachea, bronchus, lung cancers",1933.76671,1178.67035,2837.3817
+Low- and middle-income,Female,50-54,"Trachea, bronchus, lung cancers",3435.58947,2096.62054,5030.09902
+Low- and middle-income,Female,55-59,"Trachea, bronchus, lung cancers",4532.64015,2754.23666,6658.21571
+Low- and middle-income,Female,60-64,"Trachea, bronchus, lung cancers",6147.30258,3739.05107,9024.12051
+Low- and middle-income,Male,50-54,Ischaemic heart disease,58043.64795,39122.48523,73229.24805
+Low- and middle-income,Male,All,Stroke,451533.6045,240982.8872,679280.1069
+Low- and middle-income,Male,55-59,Ischaemic heart disease,81732.21511,54970.95734,103068.8202
+Low- and middle-income,Male,60-64,Ischaemic heart disease,99453.97316,66650.04844,125455.9725
+Low- and middle-income,Male,65-69,Ischaemic heart disease,116746.0842,78205.57017,147317.2757
+Low- and middle-income,Male,70-74,Ischaemic heart disease,111416.0449,74666.5802,140760.4226
+Low- and middle-income,Male,75-79,Ischaemic heart disease,109687.9802,73470.82019,138615.5843
+Low- and middle-income,Male,80+,Ischaemic heart disease,247509.6007,165820.3686,313118.9545
+Low- and middle-income,Male,All,Ischaemic heart disease,915030.3227,613958.1601,1155217.257
+Low- and middle-income,Male,25-29,Stroke,1661.9187,878.02436,2493.02039
+Low- and middle-income,Male,30-34,Stroke,2982.95268,1584.09642,4478.97286
+Low- and middle-income,Male,35-39,Stroke,4736.09471,2526.45341,7113.60444
+Low- and middle-income,Male,40-44,Stroke,8100.95027,4316.54053,12156.97325
+Low- and middle-income,Male,45-49,Stroke,13448.80822,7193.71966,20176.78852
+Low- and middle-income,Male,50-54,Stroke,22994.51926,12302.47765,34560.30114
+Low- and middle-income,Male,55-59,Stroke,33064.01957,17698.36604,49585.0057
+Low- and middle-income,Male,60-64,Stroke,46509.33958,24839.10163,69897.96442
+Low- and middle-income,Male,65-69,Stroke,62541.2322,33413.74988,94079.13033
+Low- and middle-income,Male,70-74,Stroke,64380.71871,34369.06759,96928.03877
+Low- and middle-income,Male,75-79,Stroke,65026.71748,34686.70803,97886.2341
+Low- and middle-income,Male,80+,Stroke,126086.3331,66270.69115,189862.036
+Low- and middle-income,Male,25-29,Ischaemic heart disease,4310.02432,2930.99967,5438.56543
+Low- and middle-income,Male,30-34,Ischaemic heart disease,9070.65953,6161.09785,11438.57022
+Low- and middle-income,Male,35-39,Ischaemic heart disease,15035.603,10180.57975,18942.96933
+Low- and middle-income,Male,40-44,Ischaemic heart disease,23635.99407,15967.05866,29768.15915
+Low- and middle-income,Male,45-49,Ischaemic heart disease,38388.49571,25907.10097,48416.85876
+Low- and middle-income,Male,55-59,Lower respiratory infections,10276.69584,6956.68853,14075.75307
+Low- and middle-income,Male,60-64,Lower respiratory infections,14659.25085,10001.88043,19937.55717
+Low- and middle-income,Male,65-69,Lower respiratory infections,18548.8081,12683.69016,25038.85468
+Low- and middle-income,Male,25-29,Chronic obstructive pulmonary disease,288.71409,115.90452,529.05917
+Low- and middle-income,Male,30-34,Chronic obstructive pulmonary disease,498.94381,200.88254,913.21212
+Low- and middle-income,Male,35-39,Chronic obstructive pulmonary disease,834.19006,339.6713,1518.02646
+Low- and middle-income,Male,40-44,Chronic obstructive pulmonary disease,1615.71772,662.39669,2927.32894
+Low- and middle-income,Male,45-49,Chronic obstructive pulmonary disease,3431.38607,1411.48711,6194.08355
+Low- and middle-income,Male,50-54,Chronic obstructive pulmonary disease,7578.26839,3125.62549,13580.664
+Low- and middle-income,Male,55-59,Chronic obstructive pulmonary disease,13976.34184,5775.78515,25016.37019
+Low- and middle-income,Male,60-64,Chronic obstructive pulmonary disease,24864.33933,10245.42291,44624.46933
+Low- and middle-income,Male,65-69,Chronic obstructive pulmonary disease,38453.12249,15844.15577,69050.51161
+Low- and middle-income,Male,70-74,Chronic obstructive pulmonary disease,47867.88209,19685.06862,86236.17071
+Low- and middle-income,Male,75-79,Chronic obstructive pulmonary disease,52665.3384,21668.95166,95027.57271
+Low- and middle-income,Male,80+,Chronic obstructive pulmonary disease,116367.2649,47690.33174,211070.2824
+Low- and middle-income,Male,All,Chronic obstructive pulmonary disease,308441.5092,126759.7895,557163.8059
+Low- and middle-income,Male,0-4,Lower respiratory infections,82055.85155,57594.06234,107886.5835
+Low- and middle-income,Male,5-9,Lower respiratory infections,4302.18804,2942.37477,5731.74796
+Low- and middle-income,Male,10-14,Lower respiratory infections,2745.64551,1852.54792,3681.80818
+Low- and middle-income,Male,15-19,Lower respiratory infections,1535.71657,1040.24079,2083.19954
+Low- and middle-income,Male,20-24,Lower respiratory infections,1734.44038,1161.52182,2375.91168
+Low- and middle-income,Male,25-29,Lower respiratory infections,2139.91724,1427.95304,2942.8913
+Low- and middle-income,Male,30-34,Lower respiratory infections,2631.18189,1740.08344,3649.26409
+Low- and middle-income,Male,35-39,Lower respiratory infections,3367.09011,2203.58447,4696.35342
+Low- and middle-income,Male,40-44,Lower respiratory infections,4048.35421,2651.64706,5683.48464
+Low- and middle-income,Male,45-49,Lower respiratory infections,5478.49254,3608.89582,7618.26574
+Low- and middle-income,Male,50-54,Lower respiratory infections,7248.25597,4845.25757,9997.36883
+Low- and middle-income,Male,75-79,Lower respiratory infections,22761.39014,15608.02823,30672.09612
+Low- and middle-income,Male,80+,Lower respiratory infections,57143.75091,38409.17719,77981.01328
+Low- and middle-income,Male,All,Lower respiratory infections,262002.2177,180774.5146,353057.7103
+Low- and middle-income,Male,25-29,"Trachea, bronchus, lung cancers",204.21657,125.74806,298.07102
+Low- and middle-income,Male,30-34,"Trachea, bronchus, lung cancers",477.51175,293.28594,696.16645
+Low- and middle-income,Male,35-39,"Trachea, bronchus, lung cancers",827.54031,506.12515,1214.65037
+Low- and middle-income,Male,40-44,"Trachea, bronchus, lung cancers",1843.11852,1124.57958,2712.29153
+Low- and middle-income,Male,45-49,"Trachea, bronchus, lung cancers",4297.30739,2615.94382,6307.76773
+Low- and middle-income,Male,50-54,"Trachea, bronchus, lung cancers",8235.85203,5018.2429,12108.7408
+Low- and middle-income,Male,55-59,"Trachea, bronchus, lung cancers",12473.85096,7599.19346,18322.81914
+Low- and middle-income,Male,60-64,"Trachea, bronchus, lung cancers",16732.60748,10185.20591,24577.53874
+Low- and middle-income,Male,65-69,"Trachea, bronchus, lung cancers",21225.07162,12923.17982,31105.75707
+Low- and middle-income,Male,70-74,"Trachea, bronchus, lung cancers",18259.42791,11121.60422,26735.72166
+Low- and middle-income,Male,75-79,"Trachea, bronchus, lung cancers",14169.565,8631.18875,20758.02223
+Low- and middle-income,Male,80+,"Trachea, bronchus, lung cancers",17079.08884,10381.92703,25021.21401
+Low- and middle-income,Male,All,"Trachea, bronchus, lung cancers",115825.1584,70554.79207,169848.788
+Low- and middle-income,Male,70-74,Lower respiratory infections,21325.18788,14615.92003,28764.24737
